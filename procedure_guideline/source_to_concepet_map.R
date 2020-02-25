@@ -1,9 +1,11 @@
+#install.packages("xlsx")
+
 mapped_path <- "@path"
 mapped_file <- "@mapped file name"
-export_file <- "source_to_concept_map.csv"
+export_file <- "source_to_concept_map.xlsx"
 mapped <- file.path(mapped_path, mapped_file)
 
-df <- data.table::fread(mapped, fill=TRUE, header=TRUE)
+df <- xlsx::read.xlsx(mapped, 1)
 source_to_concept_map <- data.frame(source_code = df$concept_code,
                  source_concept_id = 0,
                  source_vocabulary_id = "Korean EDI",
@@ -15,4 +17,4 @@ source_to_concept_map <- data.frame(source_code = df$concept_code,
                  invalid_reason = NA,
                  stringsAsFactors=FALSE)
 
-write.csv(source_to_concept_map, file.path(mapped_path, export_file), row.names = FALSE, sep="\t")
+xlsx::write.xlsx(source_to_concept_map, file.path(mapped_path, export_file), row.names = FALSE)
