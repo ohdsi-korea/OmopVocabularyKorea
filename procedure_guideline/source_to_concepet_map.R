@@ -5,7 +5,7 @@ mapped_file <- "@mapped file name"
 export_file <- "source_to_concept_map.xlsx"
 mapped <- file.path(mapped_path, mapped_file)
 
-df <- xlsx::read.xlsx(mapped, 1)
+df <- xlsx::read.xlsx(mapped, 1, encoding = "UTF-8")
 source_to_concept_map <- data.frame(source_code = df$concept_code,
                  source_concept_id = 0,
                  source_vocabulary_id = "Korean EDI",
