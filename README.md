@@ -18,7 +18,7 @@ connectionDetails <- createConnectionDetails(dbms = "DBMS",
 conn <- connect(connectionDetails)
 
 insertTable(connection = conn,
-            tableName = "source_to_concept_map3",
+            tableName = "source_to_concept_map",
             data = source_to_concept_map,
             dropTableIfExists = TRUE,
             createTable = TRUE,
