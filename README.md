@@ -8,7 +8,7 @@ devtools::install_github("ohdsi/DatabaseConnector")
 devtools::install_github("ohdsi/SqlRender")
 
 file_path <- "@path"
-source_to_concept_map <- file.path(file_path, "source_to_concept_map.csv")
+source_to_concept_map <- read.csv(file.path(file_path, "source_to_concept_map.csv"))
 
 connectionDetails <- createConnectionDetails(dbms = "DBMS",
                                              server = "localhost",
