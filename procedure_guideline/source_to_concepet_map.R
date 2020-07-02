@@ -17,4 +17,4 @@ source_to_concept_map <- data.frame(source_code = df$concept_code,
                  invalid_reason = NA,
                  stringsAsFactors=FALSE)
 
-write.csv(source_to_concept_map, file.path(mapped_path, export_file), row.names = FALSE)
+write.csv(source_to_concept_map, file.path(mapped_path, export_file), row.names = FALSE, fileEncoding = "UTF-8")
