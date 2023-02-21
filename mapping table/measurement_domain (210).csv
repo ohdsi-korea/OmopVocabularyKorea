@@ -1,0 +1,211 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_description,target_concept_id,target_vocabulary_id,valid_start_date,valid_end_date,invalid_reason
+D3003,42365166,EDI,"Microalbumin urine; 미량알부민-[정밀면역검사(정량)]-핵의학적 방법, NA",3000034,LOINC,1970-01-01,2099-12-31,NA
+D3001,42362049,EDI,"Microalbumin urine; 미량알부민-[화학반응-육안검사(정성)], NA",3000034,LOINC,1970-01-01,2099-12-31,NA
+D5021010,42364529,EDI,"Parathyrin.intact [Mass/volume] in Serum or Plasma; 부갑상선표지자[정밀면역검사]-핵의학적 방법_부갑상선호르몬, NA",3000067,LOINC,1970-01-01,2099-12-31,NA
+D5503030,42364453,EDI,"Arsenic [Mass/volume] in Blood; 중금속·미량원소-[화학반응-장비측정]-(정량)_As, NA",3000138,LOINC,1970-01-01,2099-12-31,NA
+D5501030,42362488,EDI,"Arsenic [Mass/volume] in Blood; 중금속·미량원소-[화학반응-장비측정]-(정성)_As, NA",3000138,LOINC,1970-01-01,2099-12-31,NA
+D5349246,42346486,EDI,"Desipramine [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Desipramine 및 Desipramine대사물질, 진단검사의학과전문의 등 판독",3000167,LOINC,1970-01-01,2099-12-31,NA
+D5343380,42362642,EDI,"Desipramine [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Imipramine, NA",3000167,LOINC,1970-01-01,2099-12-31,NA
+D5343240,42361484,EDI,"Desipramine [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Desipramine 및 Desipramine대사물질, NA",3000167,LOINC,1970-01-01,2099-12-31,NA
+D5333120,42363365,EDI,"Desipramine [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)_Desipramine, NA",3000167,LOINC,1970-01-01,2099-12-31,NA
+D5335120,42362882,EDI,"Desipramine [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Desipramine, NA",3000167,LOINC,1970-01-01,2099-12-31,NA
+D5323130,42359036,EDI,"Desipramine [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정량)_Desipramine, NA",3000167,LOINC,1970-01-01,2099-12-31,NA
+D3021,42362428,EDI,"Glucose [Mass/volume] in Blood; 당검사[화학반응-장비측정][반정량], NA",3000483,LOINC,1970-01-01,2099-12-31,NA
+D1122,42354773,EDI,"Antithrombin actual/normal in Platelet poor plasma by Chromogenic method; 항트롬빈Ⅲ측정-[정밀면역검사], NA",3000515,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Abnormal lymphocytes/100 leukocytes in Blood by Manual count; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3000518,LOINC,1970-01-01,2099-12-31,NA
+D0013,42357278,EDI,"Abnormal lymphocytes/100 leukocytes in Blood by Manual count; 백혈구백분율(혈액)-[혈구세포-장비측정], NA",3000518,LOINC,1970-01-01,2099-12-31,NA
+D4903020,42361070,EDI,"Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma; 비타민-[정밀면역검사]-핵의학적 방법_B12, NA",3000593,LOINC,1970-01-01,2099-12-31,NA
+D0326,42357737,EDI,"Mesothelial cells/100 leukocytes in Body fluid by Manual count; 체액-백혈구백분율(혈액 외), NA",3000598,LOINC,1970-01-01,2099-12-31,NA
+D0329006,42346778,EDI,"Mesothelial cells/100 leukocytes in Body fluid by Manual count; 체액-체액염색검경(뇌척수액, 복수, 늑막액, 관절액등), 진단검사의학과전문의 등 판독",3000598,LOINC,1970-01-01,2099-12-31,NA
+D5323070,42359013,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[일반면역검사](정량)_Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5331050,42361659,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀면역검사](정성)_Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5333070,42360133,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀면역검사](정량)_Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5335070,42356985,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5341080,42363384,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-분획(정성)_Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5343100,42361405,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5345080,42366346,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Benzodiazepine, NA",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5349106,42347249,EDI,"Benzodiazepines [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Benzodiazepine, 진단검사의학과전문의 등 판독",3000764,LOINC,1970-01-01,2099-12-31,NA
+D5321320,42364873,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정성)_Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5331310,42362900,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정성)_Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5333400,42360294,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)_Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5335400,42362209,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5341480,42365775,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정성)_Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5343720,42361765,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5345480,42364467,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Salicylate, NA",3000787,LOINC,1970-01-01,2099-12-31,NA
+D5349766,42347187,EDI,"Salicylates [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Salicylate, 진단검사의학과전문의 등 판독",3000787,LOINC,1970-01-01,2099-12-31,NA
+D3021,42362428,EDI,"Glucose [Mass/volume] in Serum or Plasma --2 hours post XXX challenge; 당검사[화학반응-장비측정][반정량], NA",3000845,LOINC,1970-01-01,2099-12-31,NA
+D0004,42363447,EDI,"Leukocytes [#/volume] in Blood by Automated count; 일반혈액검사(CBC)-백혈구 수 [이미지분석법] - 간이검사, NA",3000905,LOINC,1970-01-01,2099-12-31,NA
+D0003,42363453,EDI,"Hemoglobin [Mass/volume] in Blood; 일반혈액검사(CBC)-혈색소[화학반응-육안검사], NA",3000963,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"3-Hydroxypalmitoleylcarnitine (C16:1-OH) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3001111,LOINC,1970-01-01,2099-12-31,NA
+D0523010,42357440,EDI,"Ferritin [Mass/volume] in Serum or Plasma; 철대사검사-[정밀면역검사]-핵의학적 방법_훼리틴, NA",3001122,LOINC,1970-01-01,2099-12-31,NA
+D4307010,42362597,EDI,"Prostate Specific Ag Free [Units/volume] in Serum or Plasma; 전립선암[정밀면역검사]-핵의학적 방법_유리전립선특이항원, NA",3001138,LOINC,1998-11-25,2099-12-31,NA
+D0011,42357272,EDI,"Nucleated erythrocytes [#/volume] in Blood; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3001490,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Nucleated erythrocytes [#/volume] in Blood; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3001490,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Monocytes [#/volume] in Blood; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3001604,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Monocytes [#/volume] in Blood; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3001604,LOINC,1970-01-01,2099-12-31,NA
+D1132086,42346770,EDI,"Coagulation factor XI activity actual/normal in Platelet poor plasma by Coagulation assay; 혈액응고인자(정량)-[정밀면역검사]_제XI 응고인자, 진단검사의학과전문의 등 판독",3001850,LOINC,1970-01-01,2099-12-31,NA
+D5323060,42364331,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[일반면역검사](정량)_Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5331040,42362735,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀면역검사](정성)_Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5333060,42360128,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀면역검사](정량)_Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5335060,42360021,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5341070,42365178,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-분획(정성)_Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5343090,42360332,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5345070,42363147,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Barbiturate, NA",3002020,LOINC,1970-01-01,2099-12-31,NA
+D5349096,42346862,EDI,"Barbiturates [Presence] in Urine; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Barbiturate, 진단검사의학과전문의 등 판독",3002020,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Lymphocytes %; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3002030,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Lymphocytes %; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3002030,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"Oleoylcarnitine (C18:1) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3002051,LOINC,1970-01-01,2099-12-31,NA
+D0003,42363453,EDI,"Hemoglobin [Mass/volume] in Arterial blood; 일반혈액검사(CBC)-혈색소[화학반응-육안검사], NA",3002173,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Metamyelocytes %; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3002179,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Metamyelocytes %; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3002179,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"Octenoylcarnitine (C8:1) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3002299,LOINC,1970-01-01,2099-12-31,NA
+D1132096,42346658,EDI,"Coagulation factor XII activity actual/normal in Platelet poor plasma by Coagulation assay; 혈액응고인자(정량)-[정밀면역검사]_제XⅡ 응고인자, 진단검사의학과전문의 등 판독",3002348,LOINC,1970-01-01,2099-12-31,NA
+D5321010,42359465,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정성)_Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5323010,42361079,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정량)_Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5331010,42360573,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정성)_Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5335010,42362136,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5341020,42362267,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정성)_Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5343020,42361359,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5345020,42364194,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Acetaminophen, NA",3002617,LOINC,1970-01-01,2099-12-31,NA
+D5349026,42346601,EDI,"Acetaminophen [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Acetaminophen, 진단검사의학과전문의 등 판독",3002617,LOINC,1970-01-01,2099-12-31,NA
+D3021,42362428,EDI,"Glucose [Mass/volume] in Serum or Plasma --baseline; 당검사[화학반응-장비측정][반정량], NA",3002666,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"3-Hydroxyoleoylcarnitine (C18:1-OH) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3003209,LOINC,1970-01-01,2099-12-31,NA
+D0326,42357737,EDI,"Lymphocytes/100 leukocytes in Synovial fluid; 체액-백혈구백분율(혈액 외), NA",3003329,LOINC,1970-01-01,2099-12-31,NA
+D0329006,42346778,EDI,"Lymphocytes/100 leukocytes in Synovial fluid; 체액-체액염색검경(뇌척수액, 복수, 늑막액, 관절액등), 진단검사의학과전문의 등 판독",3003329,LOINC,1970-01-01,2099-12-31,NA
+D4902160,42361168,EDI,"Carnitine [Presence] in Serum or Plasma; 비타민-[정밀면역검사]_카르니틴, NA",3003388,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"Octanoylcarnitine (C8) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3003480,LOINC,1970-01-01,2099-12-31,NA
+D0561026,42347275,EDI,"Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method; 태아혈색소-[관찰판정-현미경]_헤모글로빈 F 염색법(태아혈색소염색), 진단검사의학과전문의 등 판독",3003515,LOINC,1970-01-01,2099-12-31,NA
+D0562,42363779,EDI,"Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method; 태아혈색소-[화학반응-장비측정], NA",3003515,LOINC,1970-01-01,2099-12-31,NA
+D0563006,42346937,EDI,"Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method; 태아혈색소-[유세포분석], 진단검사의학과전문의 등 판독",3003515,LOINC,1970-01-01,2099-12-31,NA
+D0600006,42347360,EDI,"Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method; 헤모글로빈분획[분획분석], 진단검사의학과전문의 등 판독",3003515,LOINC,1970-01-01,2099-12-31,NA
+D0326,42357737,EDI,"Lymphocytes/100 leukocytes in Body fluid by Manual count; 체액-백혈구백분율(혈액 외), NA",3003540,LOINC,1970-01-01,2099-12-31,NA
+D0329006,42346778,EDI,"Lymphocytes/100 leukocytes in Body fluid by Manual count; 체액-체액염색검경(뇌척수액, 복수, 늑막액, 관절액등), 진단검사의학과전문의 등 판독",3003540,LOINC,1970-01-01,2099-12-31,NA
+D3513080,42355958,EDI,"Normetanephrine [Mass/volume] in 24 hour Urine; 카테콜아민 및 주요대사물질-[정밀면역검사](정량)_Normetanephrine, NA",3003700,LOINC,1970-01-01,2099-12-31,NA
+D4291,42357419,EDI,"Carcinoembryonic Ag [Mass/volume] in Serum or Plasma; 태아성암항원 [정밀면역검사]-핵의학적 방법, NA",3003785,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"3-Hydroxydodecanoylcarnitine (C12-OH) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3003809,LOINC,1970-01-01,2099-12-31,NA
+D5190006,42347013,EDI,"Linoleoylcarnitine (C18:2) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3003816,LOINC,1970-01-01,2099-12-31,NA
+D5335440,42360092,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --peak; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Tobramycin, NA",3004090,LOINC,1970-01-01,2099-12-31,NA
+D5323440,42359216,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --peak; 약물 및 독물-[일반면역검사](정량)_Tobramycin, NA",3004090,LOINC,1970-01-01,2099-12-31,NA
+D5343830,42361826,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --peak; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Tobramycin, NA",3004090,LOINC,1970-01-01,2099-12-31,NA
+D5349886,42345811,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --peak; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Tobramycin, 진단검사의학과전문의 등 판독",3004090,LOINC,1970-01-01,2099-12-31,NA
+D0003,42363453,EDI,"Hemoglobin [Mass/volume] in Venous blood; 일반혈액검사(CBC)-혈색소[화학반응-육안검사], NA",3004119,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Isoleucine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3004254,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Isoleucine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3004254,LOINC,1999-07-21,2099-12-31,NA
+D1132076,42346782,EDI,"Coagulation factor X activity actual/normal in Platelet poor plasma by Coagulation assay; 혈액응고인자(정량)-[정밀면역검사]_제Ⅹ 응고인자, 진단검사의학과전문의 등 판독",3004409,LOINC,1970-01-01,2099-12-31,NA
+D3061,42359964,EDI,"Hemoglobin A1c (Glycated); 헤모글로빈A1C-[화학반응-장비측정], NA",3004410,LOINC,1970-01-01,2099-12-31,NA
+D3062,42363150,EDI,"Hemoglobin A1c (Glycated); 헤모글로빈A1C-[일반면역검사-간이검사], NA",3004410,LOINC,1970-01-01,2099-12-31,NA
+D3064010,42363851,EDI,"Hemoglobin A1c (Glycated); 헤모글로빈A1C-[분획분석]_전기영동법, NA",3004410,LOINC,1970-01-01,2099-12-31,NA
+D3064020,42360997,EDI,"Hemoglobin A1c (Glycated); 헤모글로빈A1C-[분획분석]_크로마토그래피법, NA",3004410,LOINC,1970-01-01,2099-12-31,NA
+D3064030,42363144,EDI,"Hemoglobin A1c (Glycated); 헤모글로빈A1C-[분획분석]_크로마토그래피법-간이검사, NA",3004410,LOINC,1970-01-01,2099-12-31,NA
+D3065,42236091,EDI,"Hemoglobin A1c (Glycated); 헤모글로빈A1C-[정밀분광-질량분석], NA",3004410,LOINC,1970-01-01,2099-12-31,NA
+D0326,42357737,EDI,"Monocytes/100 leukocytes in Body fluid by Manual count; 체액-백혈구백분율(혈액 외), NA",3004411,LOINC,1970-01-01,2099-12-31,NA
+D0329006,42346778,EDI,"Monocytes/100 leukocytes in Body fluid by Manual count; 체액-체액염색검경(뇌척수액, 복수, 늑막액, 관절액등), 진단검사의학과전문의 등 판독",3004411,LOINC,1970-01-01,2099-12-31,NA
+D3021,42362428,EDI,"Glucose lab; 당검사[화학반응-장비측정][반정량], NA",3004501,LOINC,1970-01-01,2099-12-31,NA
+D3411,42364997,EDI,"Prolactin [Mass/volume] in Serum or Plasma; 프로락틴[정밀면역검사]-핵의학적 방법, NA",3004722,LOINC,1970-01-01,2099-12-31,NA
+D5343050,42361377,EDI,"Amitriptyline+Nortriptyline [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Amitriptyline 및 Amitriptyline대사물질, NA",3004739,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Bands %; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3004809,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Bands %; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3004809,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Tyrosine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3004955,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Tyrosine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3004955,LOINC,1999-07-21,2099-12-31,NA
+D4307010,42362597,EDI,"Free PSA serum/plasma; 전립선암[정밀면역검사]-핵의학적 방법_유리전립선특이항원, NA",3005013,LOINC,1997-03-03,2099-12-31,NA
+D5190006,42347013,EDI,"Tetradecenoylcarnitine (C14:1) [Moles/volume] in Serum or Plasma; 선천성 대사이상 검사(선별), 진단검사의학과전문의 등 판독",3005018,LOINC,1970-01-01,2099-12-31,NA
+D1841,42364540,EDI,"Protein [Mass/volume] in Body fluid; 총단백[화학반응-장비측정(간이검사)], NA",3005029,LOINC,1970-01-01,2099-12-31,NA
+D0326,42357737,EDI,"Macrophages/100 leukocytes in Body fluid by Manual count; 체액-백혈구백분율(혈액 외), NA",3005087,LOINC,1970-01-01,2099-12-31,NA
+D0329006,42346778,EDI,"Macrophages/100 leukocytes in Body fluid by Manual count; 체액-체액염색검경(뇌척수액, 복수, 늑막액, 관절액등), 진단검사의학과전문의 등 판독",3005087,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Cystine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3005335,LOINC,1999-11-16,2099-12-31,NA
+D5143006,42346855,EDI,"Cystine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3005335,LOINC,1999-11-16,2099-12-31,NA
+D1008,42357647,EDI,"Prothrombin activity actual/normal in Platelet poor plasma by Coagulation assay; 응고기능기본검사-프로트롬빈시간-간이검사, NA",3005353,LOINC,1970-01-01,2099-12-31,NA
+D3003,42365166,EDI,"Microalbumin [Mass/time] in 24 hour Urine; 미량알부민-[정밀면역검사(정량)]-핵의학적 방법, NA",3005577,LOINC,1970-01-01,2099-12-31,NA
+D3001,42362049,EDI,"Microalbumin [Mass/time] in 24 hour Urine; 미량알부민-[화학반응-육안검사(정성)], NA",3005577,LOINC,1970-01-01,2099-12-31,NA
+D5333470,42357259,EDI,"Vancomycin [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)_Vancomycin, NA",3005715,LOINC,1970-01-01,2099-12-31,NA
+D5321360,42361784,EDI,"Vancomycin [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정성)_Vancomycin, NA",3005715,LOINC,1970-01-01,2099-12-31,NA
+D5323470,42362407,EDI,"Vancomycin [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정량)_Vancomycin, NA",3005715,LOINC,1970-01-01,2099-12-31,NA
+D5331360,42362929,EDI,"Vancomycin [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정성)_Vancomycin, NA",3005715,LOINC,1970-01-01,2099-12-31,NA
+D1132036,42346950,EDI,"Coagulation factor V activity actual/normal in Platelet poor plasma by Coagulation assay; 혈액응고인자(정량)-[정밀면역검사]_제Ⅴ 응고인자, 진단검사의학과전문의 등 판독",3005757,LOINC,1970-01-01,2099-12-31,NA
+D5321080,42362697,EDI,"Clonazepam serum/plasma; 약물 및 독물-[일반면역검사](정성)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5323100,42361133,EDI,"Clonazepam serum/plasma; 약물 및 독물-[일반면역검사](정량)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5331080,42360613,EDI,"Clonazepam serum/plasma; 약물 및 독물-[정밀면역검사](정성)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5333100,42362275,EDI,"Clonazepam serum/plasma; 약물 및 독물-[정밀면역검사](정량)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5335100,42360029,EDI,"Clonazepam serum/plasma; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5341140,42365221,EDI,"Clonazepam serum/plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정성)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5343200,42364689,EDI,"Clonazepam serum/plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5345140,42363547,EDI,"Clonazepam serum/plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Clonazepam, NA",3005769,LOINC,1970-01-01,2099-12-31,NA
+D5321280,42359621,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정성)_Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5323350,42365577,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[일반면역검사](정량)_Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5331270,42360732,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정성)_Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5335350,42363282,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5341430,42364671,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정성)_Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5343640,42360653,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5345430,42361215,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Phenyotoin, Free, NA",3005893,LOINC,1970-01-01,2099-12-31,NA
+D5349676,42345793,EDI,"Phenytoin Free [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Phenyotoin, Free, 진단검사의학과전문의 등 판독",3005893,LOINC,1970-01-01,2099-12-31,NA
+D4013,42359454,EDI,"Myoglobin [Mass/volume] in Serum or Plasma; 마이오글로빈-[정밀면역검사](정량)-핵의학적 방법, NA",3005895,LOINC,1970-01-01,2099-12-31,NA
+D4011,42359456,EDI,"Myoglobin [Mass/volume] in Serum or Plasma; 마이오글로빈-[화학반응-육안검사](정성), NA",3005895,LOINC,1970-01-01,2099-12-31,NA
+D1132066,42346925,EDI,"Coagulation factor IX activity actual/normal in Platelet poor plasma by Coagulation assay; 혈액응고인자(정량)-[정밀면역검사]_제Ⅸ 응고인자, 진단검사의학과전문의 등 판독",3006109,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Eosinophils %; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3006504,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Eosinophils %; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3006504,LOINC,1970-01-01,2099-12-31,NA
+D0410,42363323,EDI,"Bicarbonate in blood; 혈액가스분석[화학반응-장비측정], NA",3006576,LOINC,1970-01-01,2099-12-31,NA
+D0400030,42364396,EDI,"Bicarbonate in blood; 혈액가스[화학반응-장비측정]_혈액이산화탄소분압, NA",3006576,LOINC,1970-01-01,2099-12-31,NA
+D4341,42357720,EDI,"Cancer Ag 15-3 [Units/volume] in Serum or Plasma; CA-15-3[정밀면역검사]-핵의학적 방법, NA",3006588,LOINC,1970-01-01,2099-12-31,NA
+D4903050,42360014,EDI,"Calciferol (Vit D2) [Mass/volume] in Serum or Plasma; 비타민-[정밀면역검사]-핵의학적 방법_D2, NA",3006615,LOINC,1970-01-01,2099-12-31,NA
+D4904076,42345458,EDI,"Calciferol (Vit D2) [Mass/volume] in Serum or Plasma; 비타민-[정밀분광-질량분석]_D2, 진단검사의학과전문의 등 판독",3006615,LOINC,1970-01-01,2099-12-31,NA
+D4902020,42361095,EDI,"Calciferol (Vit D2) [Mass/volume] in Serum or Plasma; 비타민-[정밀면역검사]_25-OH-Vitamin D, total, NA",3006615,LOINC,1970-01-01,2099-12-31,NA
+D4902150,42361163,EDI,"Calciferol (Vit D2) [Mass/volume] in Serum or Plasma; 비타민-[정밀면역검사]_총 비타민 D, NA",3006615,LOINC,1970-01-01,2099-12-31,NA
+D4903110,42361087,EDI,"Calciferol (Vit D2) [Mass/volume] in Serum or Plasma; 비타민-[정밀면역검사]-핵의학적 방법_총 비타민D, NA",3006615,LOINC,1970-01-01,2099-12-31,NA
+D5335440,42360092,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --trough; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Tobramycin, NA",3006638,LOINC,1970-01-01,2099-12-31,NA
+D5323440,42359216,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --trough; 약물 및 독물-[일반면역검사](정량)_Tobramycin, NA",3006638,LOINC,1970-01-01,2099-12-31,NA
+D5343830,42361826,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --trough; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Tobramycin, NA",3006638,LOINC,1970-01-01,2099-12-31,NA
+D5349886,42345811,EDI,"Tobramycin [Mass/volume] in Serum or Plasma --trough; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Tobramycin, 진단검사의학과전문의 등 판독",3006638,LOINC,1970-01-01,2099-12-31,NA
+D5343330,42361538,EDI,"Flecainide [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-분획(정량)_Flecainide, NA",3006689,LOINC,1970-01-01,2099-12-31,NA
+D5345210,42363948,EDI,"Flecainide [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정성)_Flecainide, NA",3006689,LOINC,1970-01-01,2099-12-31,NA
+D5349336,42347603,EDI,"Flecainide [Mass/volume] in Serum or Plasma; 약물 및 독물-[정밀분광-질량분석]-질량(정량)_Flecainide, 진단검사의학과전문의 등 판독",3006689,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Serine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3006762,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Serine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3006762,LOINC,1999-07-21,2099-12-31,NA
+D5144006,42346647,EDI,"Leucine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3006889,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Leucine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3006889,LOINC,1999-07-21,2099-12-31,NA
+D5141010,42363656,EDI,"Leucine [Moles/volume] in Serum or Plasma; 아미노산[화학반응-육안검사](정량)_루신, NA",3006889,LOINC,1999-07-21,2099-12-31,NA
+D5142010,42357705,EDI,"Leucine [Moles/volume] in Serum or Plasma; 아미노산[화학반응-장비측정](정량)_루신, NA",3006889,LOINC,1999-07-21,2099-12-31,NA
+D1851,42398070,EDI,"Alanine aminotransferase serum/plasma; ALT (SGPT) [화학반응-장비측정(간이검사)], NA",3006923,LOINC,1970-01-01,2099-12-31,NA
+D2618,42346389,EDI,"Cholesterol in HDL [Mass/volume] in Serum or Plasma; 콜레스테롤-HDL 콜레스테롤[화학반응-장비측정(간이검사)], NA",3007070,LOINC,1970-01-01,2099-12-31,NA
+D2619,42357103,EDI,"Cholesterol in HDL [Mass/volume] in Serum or Plasma; 콜레스테롤-HDL 콜레스테롤[화학반응-장비측정(간이검사)]-반사광도측정법, NA",3007070,LOINC,1970-01-01,2099-12-31,NA
+D2541016,42347485,EDI,"Creatine kinase.MB/Creatine kinase.total in Serum or Plasma by Electrophoresis; 이소엔자임-[정밀면역검사]_CPK이소엔자임, 진단검사의학과전문의 등 판독",3007150,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Valine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3007430,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Valine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3007430,LOINC,1999-07-21,2099-12-31,NA
+D0001030,42360231,EDI,"Platelet count; 일반혈액검사(CBC)-[혈구세포-현미경]_혈소판수, NA",3007461,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Band form neutrophils/100 leukocytes in Blood by Manual count; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3007591,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Band form neutrophils/100 leukocytes in Blood by Manual count; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3007591,LOINC,1970-01-01,2099-12-31,NA
+D3541,42357756,EDI,"Renin [Enzymatic activity/volume] in Plasma; 레닌활성도[정밀면역검사]-핵의학적 방법, NA",3007808,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Proline [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3007854,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Proline [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3007854,LOINC,1999-07-21,2099-12-31,NA
+D5300010,42364429,EDI,"Methemoglobin/Hemoglobin.total in Blood; 특수헤모글로빈[화학반응-장비측정]_메트헤모글로빈, NA",3007930,LOINC,1970-01-01,2099-12-31,NA
+D5501080,42364679,EDI,"Mercury [Mass/volume] in 24 hour Urine; 중금속·미량원소-[화학반응-장비측정]-(정성)_Hg, NA",3007953,LOINC,1970-01-01,2099-12-31,NA
+D5503080,42365207,EDI,"Mercury [Mass/volume] in 24 hour Urine; 중금속·미량원소-[화학반응-장비측정]-(정량)_Hg, NA",3007953,LOINC,1970-01-01,2099-12-31,NA
+D0400030,42364396,EDI,"Bicarbonate [Moles/volume] in Arterial blood; 혈액가스[화학반응-장비측정]_혈액이산화탄소분압, NA",3008152,LOINC,1970-01-01,2099-12-31,NA
+D2830,42361378,EDI,"Bicarbonate [Moles/volume] in Arterial blood; 혈액총이산화탄소함량[화학반응-장비측정], NA",3008152,LOINC,1970-01-01,2099-12-31,NA
+D5501060,42365618,EDI,"Chromium [Mass/volume] in Serum or Plasma; 중금속·미량원소-[화학반응-장비측정]-(정성)_Cr (chromium), NA",3008269,LOINC,1970-01-01,2099-12-31,NA
+D5503060,42365196,EDI,"Chromium [Mass/volume] in Serum or Plasma; 중금속·미량원소-[화학반응-장비측정]-(정량)_Cr (chromium), NA",3008269,LOINC,1970-01-01,2099-12-31,NA
+D2631010,42357827,EDI,"Apolipoprotein A-I [Mass/volume] in Serum or Plasma; 아포지단백[정밀면역검사]-핵의학적 방법_아포지단백A, NA",3008364,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Lysine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3008377,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Lysine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3008377,LOINC,1999-07-21,2099-12-31,NA
+D5144006,42346647,EDI,"Glycine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3008575,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Glycine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3008575,LOINC,1999-07-21,2099-12-31,NA
+D3231050,42357042,EDI,"Thyroxine (T4) free [Mass/volume] in Serum or Plasma; 갑상선호르몬 등[정밀면역검사]-핵의학적 방법_유리싸이록신, NA",3008598,LOINC,1970-01-01,2099-12-31,NA
+D3513030,42342166,EDI,"Epinephrine [Mass/volume] in Plasma; 카테콜아민 및 주요대사물질-[정밀면역검사](정량)_Epinephrine, NA",3008625,LOINC,1970-01-01,2099-12-31,NA
+D0326,42357737,EDI,"Basophils/100 leukocytes in Body fluid by Manual count; 체액-백혈구백분율(혈액 외), NA",3008839,LOINC,1970-01-01,2099-12-31,NA
+D0329006,42346778,EDI,"Basophils/100 leukocytes in Body fluid by Manual count; 체액-체액염색검경(뇌척수액, 복수, 늑막액, 관절액등), 진단검사의학과전문의 등 판독",3008839,LOINC,1970-01-01,2099-12-31,NA
+D3711050,42364236,EDI,"Testosterone [Mass/volume] in Serum or Plasma; 성선호르몬[정밀면역검사]-핵의학적 방법_테스토스테론, NA",3008893,LOINC,1970-01-01,2099-12-31,NA
+D0011,42357272,EDI,"Band form neutrophils [#/volume] in Blood by Manual count; 백혈구백분율(혈액)-[관찰판정-현미경], NA",3008939,LOINC,1970-01-01,2099-12-31,NA
+D0012,42357284,EDI,"Band form neutrophils [#/volume] in Blood by Manual count; 백혈구백분율(혈액)-[혈구세포-현미경](Buffy Coat Smear), NA",3008939,LOINC,1970-01-01,2099-12-31,NA
+D5335020,42360013,EDI,"Amikacin [Mass/volume] in Serum or Plasma --peak; 약물 및 독물-[정밀면역검사](정량)-핵의학적 방법-Amikacin, NA",3008977,LOINC,1970-01-01,2099-12-31,NA
+D5323020,42361085,EDI,"Amikacin [Mass/volume] in Serum or Plasma --peak; 약물 및 독물-[일반면역검사](정량)_Amikacin, NA",3008977,LOINC,1970-01-01,2099-12-31,NA
+D5144006,42346647,EDI,"Asparagine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3009010,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Asparagine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3009010,LOINC,1999-07-21,2099-12-31,NA
+D5144006,42346647,EDI,"Alanine [Moles/volume] in Serum or Plasma; 아미노산[정밀분광-질량분석](정량)-4종목 이하(1종목당), 진단검사의학과전문의 등 판독",3009172,LOINC,1999-07-21,2099-12-31,NA
+D5143006,42346855,EDI,"Alanine [Moles/volume] in Serum or Plasma; 아미노산[분획분석](정성), 진단검사의학과전문의 등 판독",3009172,LOINC,1999-07-21,2099-12-31,NA
+D3251010,42360064,EDI,"Thyrotropin [Units/volume] in Serum or Plasma; 갑상선자극호르몬[정밀면역검사]-핵의학적 방법_갑상선자극호르몬, NA",3009201,LOINC,1970-01-01,2099-12-31,NA
+D0400030,42364396,EDI,"Carbon dioxide, total [Moles/volume] in Capillary blood; 혈액가스[화학반응-장비측정]_혈액이산화탄소분압, NA",3009293,LOINC,1998-06-04,2099-12-31,NA
+D2830,42361378,EDI,"Carbon dioxide, total [Moles/volume] in Capillary blood; 혈액총이산화탄소함량[화학반응-장비측정], NA",3009293,LOINC,1998-06-04,2099-12-31,NA
+D2421020,42361434,EDI,"Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma; 알파피토프로틴-[정밀면역검사)-핵의학적 방법_알파피토프로테인, NA",3009306,LOINC,1970-01-01,2099-12-31,NA
+D1420020,42365013,EDI,"Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma; 알파피토프로틴-[일반면역검사]_알파피토프로테인, NA",3009306,LOINC,1970-01-01,2099-12-31,NA
+D2281,42357141,EDI,"Creatinine [Moles/volume] in Urine; 크레아티닌[화학반응-장비측정(간이검사)], NA",3009508,LOINC,1970-01-01,2099-12-31,NA
+D0400030,42364396,EDI,"Carbon dioxide, total [Moles/volume] in Arterial blood; 혈액가스[화학반응-장비측정]_혈액이산화탄소분압, NA",3009609,LOINC,1970-01-01,2099-12-31,NA
+D2830,42361378,EDI,"Carbon dioxide, total [Moles/volume] in Arterial blood; 혈액총이산화탄소함량[화학반응-장비측정], NA",3009609,LOINC,1970-01-01,2099-12-31,NA

@@ -1,0 +1,449 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_description,target_concept_id,target_vocabulary_id,valid_start_date,valid_end_date
+A1100,42364257,Korean EDI,"Medical care profound count 3-6, doctor 2· nursing 5 grade; 의료최고도 count 3-6, 의사2·간호5등급",4154551,SNOMED,1970-01-01,2099-12-31
+A2148,42358862,Korean EDI,"Medical care severe ADL 17-20, doctor 4· nursing 8 grade; 의료고도 ADL 17-20, 의사4·간호8등급",4154551,SNOMED,1970-01-01,2099-12-31
+A2231,42359390,Korean EDI,"Medical care severe ADL 9-16, doctor 3· nursing 1 grade; 의료고도 ADL 9-16, 의사3·간호1등급",4154551,SNOMED,1970-01-01,2099-12-31
+A3353,42360143,Korean EDI,"Medical care moderate ADL 4-8, doctor 5· nursing 3 grade; 의료중도 ADL 4-8, 의사5·간호3등급",4154551,SNOMED,1970-01-01,2099-12-31
+AB322,42364160,Korean EDI,"Inpatient Care; 병원, 치과병원, 한방병원 내 의·치과 2등급간호관리료적용5인실입원료",42537843,SNOMED,2018-01-31,2099-12-31
+AB343,42365753,Korean EDI,"Inpatient Care; 병원, 치과병원, 한방병원 내 의·치과 3등급간호관리료적용4인실입원료",42537843,SNOMED,2018-01-31,2099-12-31
+AB364,42358271,Korean EDI,"Inpatient Care; 병원, 한방병원 내 의·치과 4등급간호관리료적용 3인실 입원료",42537843,SNOMED,2018-01-31,2099-12-31
+AC301,42364848,Korean EDI,Pediatric sedation management fee- Senior General Hospital; 소아 진정관리료-상급종합병원,4219502,SNOMED,1970-01-01,2099-12-31
+AC612,42357821,Korean EDI,Sub-ICU Patient Care-High risk pregnancy intensive care unit; 고위험임산부 집중치료실 입원료-상급종합병원,4237498,SNOMED,1970-01-01,2099-12-31
+AD100,42359809,Korean EDI,Aseptic Room Patient Care; 상급종합병원 무균치료실입원료-1인용,4077663,SNOMED,1970-01-01,2099-12-31
+AG111,42359766,Korean EDI,Neonatal Care; 신생아실 입원료-질병이 없는 신생아-상급종합병원,4237490,SNOMED,1970-01-01,2099-12-31
+AG113,42359753,Korean EDI,Neonatal Care; 신생아모유수유간호관리료-상급종합병원,4234170,SNOMED,2009-01-31,2099-12-31
+AJ510,42366375,Korean EDI,"ICU Patient Care; 요양병원 의ㆍ치과-중환자실입원료, 간호1등급",46285817,SNOMED,2015-10-01,2099-12-31
+AJ540,42361272,Korean EDI,"ICU Patient Care; 요양병원 의ㆍ치과-중환자실입원료, 간호4등급",46285817,SNOMED,2015-10-01,2099-12-31
+AJ580,42366353,Korean EDI,"ICU Patient Care; 요양병원 의ㆍ치과-중환자실입원료, 간호8등급",46285817,SNOMED,2015-10-01,2099-12-31
+AK100,42364330,Korean EDI,Isolation Room Patient Care; 격리실 입원료-일반 격리실 입원료-상급종합병원-1인용,4222885,SNOMED,1970-01-01,2099-12-31
+AK202,42359025,Korean EDI,Isolation Room Patient Care; 격리실 입원료-일반 격리실 입원료-종합병원-2인용,4222885,SNOMED,1970-01-01,2099-12-31
+AK211,42358994,Korean EDI,Isolation Room Patient Care; 격리실 입원료-음압 격리실 입원료-종합병원-다인용,4222885,SNOMED,1970-01-01,2099-12-31
+AK501,42358966,Korean EDI,Isolation Room Patient Care; 격리실 입원료-2인용,4222885,SNOMED,1970-01-01,2099-12-31
+AN200,42358803,Korean EDI,Home care basic visit fee [per visit]- Senior General hospital; 가정간호기본방문료[방문당]-상급종합병원,4295046,SNOMED,2018-01-31,2099-12-31
+AN400,42358794,Korean EDI,"Home care basic visit fee [per visit]- Hospital, Dental hospital ·Korean Medicine hospital· Geriatric hospital; 가정간호기본방문료[방문당]-병원,치과·한방·요양병원",4295046,SNOMED,2018-01-31,2099-12-31
+AN500,42358811,Korean EDI,"Home care basic visit fee [per visit]- Clinic, medicine in Public Health and Medical Care Center ; 가정간호기본방문료[방문당]-의원,보건의료원 내 의과",4295046,SNOMED,2018-01-31,2099-12-31
+AQ600,42363006,Korean EDI,Lead-Shielded Room Patient Care; 상급종합병원 납차폐특수치료실입원료,4259696,SNOMED,2009-01-31,2099-12-31
+AQ800,42358326,Korean EDI,"Lead-Shielded Room Patient Care; 병원,치과병원,한방병원 내 의·치과 납차폐특수치료실입원료",4259696,SNOMED,2009-01-31,2099-12-31
+AU810,42359596,Korean EDI,Specialized hospital management Fee- outpatient management fee; 전문병원 관리료-외래관리료,42537845,SNOMED,2018-01-31,2099-12-31
+AU903,42359622,Korean EDI,"Specialized hospital (hospital, Geriatric Hospital, Korean Medicine Hospital) medical quality evaluation grant- Hospital, Geriatric Hospital (exclude ophthalmology, otolaryngology)- 다 grade- inpatient; 전문병원(병원·요양병원·한방병원) 의료질지원금-병원·요양병원(안과·이비인후과 분야 제외)-다등급-입원",42537843,SNOMED,2018-01-31,2099-12-31
+AU912,42359615,Korean EDI,"Specialized hospital (hospital, Geriatric Hospital, Korean Medicine Hospital) medical quality evaluation grant- Hospital, Geriatric Hospital (exclude ophthalmology, otolaryngology)- 나 grade- outpatient; 전문병원(병원·요양병원·한방병원) 의료질지원금-병원·요양병원(안과·이비인후과 분야 제외)-나등급-외래",42537845,SNOMED,2018-01-31,2099-12-31
+AZ100,42358317,Korean EDI,"Cancer patient Education, consultation fee- chemotherapy- Senior general hospital; 암환자 교육·상담료-항암화학요법_상급종합병원",4301464,SNOMED,1970-01-01,2099-12-31
+AZ101,42364322,Korean EDI,"Cancer patient Education, consultation fee- radiotherapy- Senior general hospital; 암환자 교육·상담료-방사선치료_상급종합병원",4257954,SNOMED,1970-01-01,2099-12-31
+AZ102,42361459,Korean EDI,"Cancer patient Education, consultation fee- after surgery- Senior general hospital; 암환자 교육·상담료-수술 후_상급종합병원",4055248,SNOMED,1970-01-01,2099-12-31
+AZ110,42356856,Korean EDI,"Heart disease Education, consultation fee- Senior general hospital; 심장질환 교육·상담료_상급종합병원",4181176,SNOMED,2008-01-31,2099-12-31
+AZ120,42361841,Korean EDI,"Intestinal fistula/urinary fistula Education, consultation fee- Senior general hospital; 장루/요루 교육·상담료_상급종합병원",4261876,SNOMED,1970-01-01,2099-12-31
+AZ130,42359483,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- patient without dialysis- Senior general hospital; 만성신부전 교육·상담료-투석이 필요 없는 환자_상급종합병원",4044940,SNOMED,1970-01-01,2099-12-31
+AZ131,42359476,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- peritoneal dialysis- Senior general hospital; 만성신부전 교육·상담료-복막투석_상급종합병원",4280208,SNOMED,1970-01-01,2099-12-31
+AZ132,42359488,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- hemodialysis- Senior general hospital; 만성신부전 교육·상담료-혈액투석_상급종합병원",4103072,SNOMED,1970-01-01,2099-12-31
+AZ200,42361472,Korean EDI,"Cancer patient Education, consultation fee- chemotherapy- General hospital; 암환자 교육·상담료-항암화학요법_종합병원",4301464,SNOMED,1970-01-01,2099-12-31
+AZ201,42361456,Korean EDI,"Cancer patient Education, consultation fee- radiotherapy- General hospital; 암환자 교육·상담료-방사선치료_종합병원",4257954,SNOMED,1970-01-01,2099-12-31
+AZ202,42361463,Korean EDI,"Cancer patient Education, consultation fee- after surgery- General hospital; 암환자 교육·상담료-수술 후_종합병원",4055248,SNOMED,1970-01-01,2099-12-31
+AZ210,42356858,Korean EDI,"Heart disease Education, consultation fee- General hospital; 심장질환 교육·상담료_종합병원",4181176,SNOMED,2008-01-31,2099-12-31
+AZ220,42365082,Korean EDI,"Intestinal fistula/urinary fistula Education, consultation fee- General hospital; 장루/요루 교육·상담료_종합병원",4261876,SNOMED,1970-01-01,2099-12-31
+AZ230,42359484,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- patient without dialysis- General hospital; 만성신부전 교육·상담료-투석이 필요 없는 환자_종합병원",36715044,SNOMED,2017-01-31,2099-12-31
+AZ231,42359479,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- peritoneal dialysis- General hospital; 만성신부전 교육·상담료-복막투석_종합병원",4280208,SNOMED,1970-01-01,2099-12-31
+AZ232,42359491,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- hemodialysis- General hospital; 만성신부전 교육·상담료-혈액투석_종합병원",4103072,SNOMED,1970-01-01,2099-12-31
+AZ300,42361466,Korean EDI,"Cancer patient Education, consultation fee- chemotherapy- hospital; 암환자 교육·상담료-항암화학요법_병원",4301464,SNOMED,1970-01-01,2099-12-31
+AZ301,42358302,Korean EDI,"Cancer patient Education, consultation fee- radiotherapy- hospital; 암환자 교육·상담료-방사선치료_병원",4257954,SNOMED,1970-01-01,2099-12-31
+AZ302,42358307,Korean EDI,"Cancer patient Education, consultation fee- after surgery- hospital; 암환자 교육·상담료-수술 후_병원",4055248,SNOMED,1970-01-01,2099-12-31
+AZ310,42356854,Korean EDI,"Heart disease Education, consultation fee- hospital; 심장질환 교육·상담료_병원",4181176,SNOMED,2008-01-31,2099-12-31
+AZ320,42366290,Korean EDI,"Intestinal fistula/urinary fistula Education, consultation fee- hospital; 장루/요루 교육·상담료_병원",4261876,SNOMED,1970-01-01,2099-12-31
+AZ330,42359480,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- patient without dialysis- hospital; 만성신부전 교육·상담료-투석이 필요 없는 환자_병원",36715044,SNOMED,2017-01-31,2099-12-31
+AZ331,42362666,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- peritoneal dialysis- hospital; 만성신부전 교육·상담료-복막투석_병원",4280208,SNOMED,1970-01-01,2099-12-31
+AZ332,42359487,Korean EDI,"Chronic renal failure(CRF) Education, consultation fee- hemodialysis- hospital; 만성신부전 교육·상담료-혈액투석_병원",4103072,SNOMED,1970-01-01,2099-12-31
+HD010,42358681,Korean EDI,Teletherapy Radiotherapy Planning-Single Port; 체외조사기본방사선치료계획[모의치료포함]1문조사제1회,4044940,SNOMED,1970-01-01,2099-12-31
+HD013,42358699,Korean EDI,Computerized Radiotherapy Planning-Single Port; 체외조사전산화방사선치료계획[모의치료포함]1문조사제1회,4044940,SNOMED,1970-01-01,2099-12-31
+HD017,42365118,Korean EDI,Computerized Radiotherapy Planning-Intra-Operative Radiation Therapy; 체외조사전산화방사선치료계획[모의치료포함]수술중방사선치료계획,4044940,SNOMED,1970-01-01,2099-12-31
+HD022,42359371,Korean EDI,"Brachytherapy-Intracavitary or Intraluminal Therapy; 밀봉소선원치료에대한치료계획및모의치료-강내치료,관내치료",4182062,SNOMED,1970-01-01,2099-12-31
+HD023,42342416,Korean EDI,Brachytherapy-Interstitial Therapy; 밀봉소선원치료에대한치료계획및모의치료-조직내치료,4182062,SNOMED,1970-01-01,2099-12-31
+HD031,42365235,Korean EDI,Design and Construction of Therapeutic Devices-Shielding Block; 치료보조기구고안및제작-차폐물[재료대 포함],4040580,SNOMED,1970-01-01,2099-12-31
+HD032,42366384,Korean EDI,Design and Construction of Therapeutic Devices-Compensator or Bolus; 치료보조기구고안및제작-보상체,4044942,SNOMED,1970-01-01,2099-12-31
+HD033,42364149,Korean EDI,Design and Construction of Therapeutic Devices-Immobilization Devices; 치료보조기구고안및제작-고정기구,4263314,SNOMED,1970-01-01,2099-12-31
+HD040,42362665,Korean EDI,Iodine-125 Permanent Implant for Prostate Cancer; 전립선암에 Iodine-125 영구삽입술[계획],4182062,SNOMED,1970-01-01,2099-12-31
+HD041,42358717,Korean EDI,Computerized Radiotherapy Planning-Intensity Modulated Radiation Therapy Planning; 체외조사전산화방사선치료계획[모의치료포함]세기변조방사선치료계획제1회,4079574,SNOMED,1970-01-01,2099-12-31
+HD051,42086483,Korean EDI,Teletherapy-Low Energy-Single Port; 체외조사[1회당]-저에너지방사선치료-1문조사,4141448,SNOMED,1970-01-01,2099-12-31
+HD053,42358664,Korean EDI,Teletherapy-High Energy-Single Port; 체외조사[1회당]-고에너지방사선치료-1문조사,4141448,SNOMED,1970-01-01,2099-12-31
+HD054,42358674,Korean EDI,Teletherapy-Low Energy-Paralled Opposed Ports; 체외조사[1회당]-저에너지방사선치료-2문대향(2문조사)부터,4141448,SNOMED,1970-01-01,2099-12-31
+HD061,42359603,Korean EDI,3-Dimensional Conformal Therapy; 입체조형치료[1회당],762950,SNOMED,2018-01-31,2099-12-31
+HD071,42360796,Korean EDI,Unsealed Source-Oral; 개봉선원치료-경구투여방법,4059831,SNOMED,1970-01-01,2099-12-31
+HD072,42357699,Korean EDI,Unsealed Source-Intravenous; 개봉선원치료-정맥주사방법,4059831,SNOMED,1970-01-01,2099-12-31
+HD073,42357696,Korean EDI,"Unsealed Source-Others; 개봉선원치료-기타방법[복막천자,흉강천자,관절천자등]",4059831,SNOMED,1970-01-01,2099-12-31
+HD080,42362534,Korean EDI,Brachytherapy; 밀봉소선원치료-외부근접(접촉)조사치료[전치료기간당],40317890,SNOMED,1970-01-01,2099-12-31
+HD081,42364680,Korean EDI,"Brachytherapy-Intracavitary Therapy-High Dose Rate; 밀봉소선원치료-강내치료(고선량률분할치료,1치료기간당,5~15회실시기준)",4293738,SNOMED,1970-01-01,2099-12-31
+HD083,42359349,Korean EDI,"Brachytherapy-Intracavitary Therapy-Low Dose Rate; 밀봉소선원치료-강내치료(저선량률치료,방사성선원삽입당일)",4293738,SNOMED,1970-01-01,2099-12-31
+HD085,42364342,Korean EDI,"Brachytherapy-Interstitial, Intraluminal Therapy-High Dose Rate; 밀봉소선원치료-조직내치료,관내치료(고선량률분할치료,1치료기간당,3회이상실시기준)",4012485,SNOMED,1970-01-01,2099-12-31
+HD087,42362543,Korean EDI,"Brachytherapy-Interstitial, Intraluminal Therapy-Low Dose Rate; 밀봉소선원치료-조직내치료,관내치료(저선량률치료,방사성선원삽입당일)",4012485,SNOMED,1970-01-01,2099-12-31
+HD088,42362548,Korean EDI,"Brachytherapy-Interstitial, Intraluminal Therapy-Low Dose Rate; 밀봉소선원치료-조직내치료,관내치료(저선량률치료,방사성선원삽입익일부터)",4012485,SNOMED,1970-01-01,2099-12-31
+HD091,42359854,Korean EDI,Total Body Irradiation; 전신조사[1회당]-전신,4165515,SNOMED,1970-01-01,2099-12-31
+HD092,42363050,Korean EDI,Total Body Lymph Node Irradiation; 전신조사[1회당]-전림프절,4165515,SNOMED,1970-01-01,2099-12-31
+HD093,42359857,Korean EDI,Total Skin Electron Beam Therapy; 전신피부전자선조사,4020923,SNOMED,1970-01-01,2099-12-31
+HD110,42348310,Korean EDI,Fractionated Stereotactic Radiotherapy; 정위적방사선분할치료[1회당],4215577,SNOMED,1970-01-01,2099-12-31
+HD111,42364040,Korean EDI,Body Stereotactic Radiosurgery-LINAC; 체부정위적방사선수술[1회당]-선형가속기이용,4021989,SNOMED,1970-01-01,2099-12-31
+HD113,42343949,Korean EDI,Cranial Stereotactic Radiosurgery-Gamma Knife; 뇌정위적방사선수술-감마나이프,4323896,SNOMED,2008-01-31,2099-12-31
+HD114,42360124,Korean EDI,Cranial Stereotactic Radiosurgery-Cyber Knife; 뇌정위적방사선수술-사이버나이프,4323896,SNOMED,2008-01-31,2099-12-31
+HD115,42357078,Korean EDI,Cranial Stereotactic Radiosurgery-LINAC; 뇌정위적방사선수술-선형가속기,4323896,SNOMED,2008-01-31,2099-12-31
+HD121,42358424,Korean EDI,Proton Therapy; 양성자치료[1회당],4058600,SNOMED,1970-01-01,2099-12-31
+HD150,42361592,Korean EDI,Iodine-125 Permanent Implant for Prostate Cancer; 전립선암에 Iodine-125 영구삽입술[치료],4137529,SNOMED,1970-01-01,2099-12-31
+HD211,42357702,Korean EDI,Body Stereotactic Radiosurgery-Cyber Knife; 체부정위적방사선수술[1회당]-사이버나이프이용,4021989,SNOMED,1970-01-01,2099-12-31
+HD212,42364045,Korean EDI,Body Stereotactic Radiosurgery-Cyber Knife; 체부정위적방사선수술[1회로 치료종결]-사이버나이프이용,4021989,SNOMED,1970-01-01,2099-12-31
+HD410,42358684,Korean EDI,Teletherapy Radiotherapy Planning-Single Port; 체외조사기본방사선치료계획[모의치료포함]1문조사제2회부터[1회당],4044940,SNOMED,1970-01-01,2099-12-31
+HD411,42358690,Korean EDI,Teletherapy Radiotherapy Planning-Paralled Opposed Ports; 체외조사기본방사선치료계획[모의치료포함]2문대향조사제2회부터[1회당],4044940,SNOMED,1970-01-01,2099-12-31
+HD412,42358696,Korean EDI,"Teletherapy Radiotherapy Planning-Non-Paralled Opposed Ports, More Than 3 Ports; 체외조사기본방사선치료계획[모의치료포함]비대향2문,3문이상조사제2회부터[1회당]",4044940,SNOMED,1970-01-01,2099-12-31
+HE109,42327543,Korean EDI,Cervical Spine MRI; 기본자기공명영상진단-척추-경추-일반,4082840,SNOMED,1970-01-01,2099-12-31
+HE110,42365619,Korean EDI,Thoracic Spine MRI; 기본자기공명영상진단-척추-흉추-일반,4082988,SNOMED,1970-01-01,2099-12-31
+HE111,42357724,Korean EDI,Lumbosacral Spine MRI; 기본자기공명영상진단-척추-요천추-일반,4202579,SNOMED,2009-01-31,2099-12-31
+HE113,42357762,Korean EDI,Basic Magnetic Resonance Imaging- spine- lumbosacral spine- thoracic spine simultaneous photographing- general; 기본자기공명영상진단-척추-요천추-흉추와동시촬영-일반,4082839,SNOMED,1970-01-01,2099-12-31
+HE119,42357418,Korean EDI,Sacroiliac Joint MRI; 기본자기공명영상진단-근골격계-천장골관절-일반,4170921,SNOMED,1970-01-01,2099-12-31
+HE122,42353322,Korean EDI,Upper Extremity MRI; 기본자기공명영상진단-근골격계-관절외상지-일반,4086399,SNOMED,1970-01-01,2099-12-31
+HE123,42357267,Korean EDI,Lower Extremity MRI; 기본자기공명영상진단-근골격계-관절외하지-일반,4010415,SNOMED,1970-01-01,2099-12-31
+HE124,42363206,Korean EDI,Heart MRI; 기본자기공명영상진단-흉부-심장-일반,4082987,SNOMED,1970-01-01,2099-12-31
+HE125,42365436,Korean EDI,Chest MRI; 기본자기공명영상진단-흉부-흉부-일반,4246485,SNOMED,1970-01-01,2099-12-31
+HE126,42357976,Korean EDI,Breast MRI; 기본자기공명영상진단-흉부-유방-일반,4082984,SNOMED,1970-01-01,2099-12-31
+HE127,42357540,Korean EDI,Abdomen MRI; 기본자기공명영상진단-복부-복부-일반,4083230,SNOMED,1970-01-01,2099-12-31
+HE128,42362708,Korean EDI,Pelvis MRI; 기본자기공명영상진단-복부-골반-일반,4097527,SNOMED,1970-01-01,2099-12-31
+HE129,42360760,Korean EDI,Pancreas MRI; 기본자기공명영상진단-복부-췌장-일반,4083232,SNOMED,1970-01-01,2099-12-31
+HE130,42363882,Korean EDI,Kidney and Adrenal MRI; 기본자기공명영상진단-복부-신장및부신-일반,4083231,SNOMED,1970-01-01,2099-12-31
+HE131,42363915,Korean EDI,Scrotum and Penile MRI; 기본자기공명영상진단-복부-음낭및음경-일반,4086276,SNOMED,1970-01-01,2099-12-31
+HE132,42357451,Korean EDI,Liver MRI; 기본자기공명영상진단-복부-간-일반,4082709,SNOMED,1970-01-01,2099-12-31
+HE133,42357509,Korean EDI,Cholangiogram MRI; 기본자기공명영상진단-복부-담췌관-일반,4194588,SNOMED,1970-01-01,2099-12-31
+HE134,42325421,Korean EDI,Prostate MRI; 기본자기공명영상진단-복부-전립선-일반,4192638,SNOMED,1970-01-01,2099-12-31
+HE138,42331984,Korean EDI,Abdominal MRA; 기본자기공명영상진단-혈관-복부혈관-일반,4082990,SNOMED,1970-01-01,2099-12-31
+HE141,42364013,Korean EDI,Whole body MRI; 기본자기공명영상진단-전신-일반,4138476,SNOMED,1970-01-01,2099-12-31
+HE142,42357294,Korean EDI,Basic Magnetic Resonance Imaging- musculoskeletal system- arthrography; 기본자기공명영상진단-근골격계-관절조영,4086404,SNOMED,1970-01-01,2099-12-31
+HE209,42357708,Korean EDI,Cervical Spine MRI; 기본자기공명영상진단-척추-경추-조영제주입전·후 촬영판독,4245419,SNOMED,1970-01-01,2099-12-31
+HE210,42357854,Korean EDI,Thoracic Spine MRI; 기본자기공명영상진단-척추-흉추-조영제주입전·후 촬영판독,4238572,SNOMED,1970-01-01,2099-12-31
+HE215,42357198,Korean EDI,Shoulder Joint MRI; 기본자기공명영상진단-근골격계-견관절-조영제주입전·후 촬영판독,4201068,SNOMED,2009-01-31,2099-12-31
+HE216,42357398,Korean EDI,Elbow Joint MRI; 기본자기공명영상진단-근골격계-주관절-조영제주입전·후 촬영판독,4199537,SNOMED,2009-01-31,2099-12-31
+HE217,42363631,Korean EDI,Wrist Joint MRI; 기본자기공명영상진단-근골격계-수관절-조영제주입전·후 촬영판독,45765712,SNOMED,2015-01-31,2099-12-31
+HE218,42357225,Korean EDI,Hip Joint MRI; 기본자기공명영상진단-근골격계-고관절-조영제주입전·후 촬영판독,4330514,SNOMED,2009-01-31,2099-12-31
+HE219,42360516,Korean EDI,Sacroiliac Joint MRI; 기본자기공명영상진단-근골격계-천장골관절-조영제주입전·후 촬영판독,40491450,SNOMED,2011-07-31,2099-12-31
+HE220,42362590,Korean EDI,Knee Joint MRI; 기본자기공명영상진단-근골격계-슬관절-조영제주입전·후 촬영판독,4332928,SNOMED,2009-01-31,2099-12-31
+HE221,42357310,Korean EDI,Ankle Joint MRI; 기본자기공명영상진단-근골격계-발목관절-조영제주입전·후 촬영판독,4335220,SNOMED,2009-01-31,2099-12-31
+HE222,42357249,Korean EDI,Upper Extremity MRI; 기본자기공명영상진단-근골격계-관절외상지-조영제주입전·후 촬영판독,37016763,SNOMED,2016-01-31,2099-12-31
+HE223,42357281,Korean EDI,Lower Extremity MRI; 기본자기공명영상진단-근골격계-관절외하지-조영제주입전·후 촬영판독,45765711,SNOMED,2015-01-31,2099-12-31
+HE224,42357957,Korean EDI,Heart MRI; 기본자기공명영상진단-흉부-심장-조영제주입전·후 촬영판독,42689598,SNOMED,2017-04-01,2099-12-31
+HE225,42358024,Korean EDI,Chest MRI; 기본자기공명영상진단-흉부-흉부-조영제주입전·후 촬영판독,4202274,SNOMED,2009-01-31,2099-12-31
+HE226,42364334,Korean EDI,Breast MRI; 기본자기공명영상진단-흉부-유방-조영제주입전·후 촬영판독,4201225,SNOMED,2009-01-31,2099-12-31
+HE227,42357554,Korean EDI,Abdomen MRI; 기본자기공명영상진단-복부-복부-조영제주입전·후 촬영판독,4335399,SNOMED,2009-01-31,2099-12-31
+HE228,42362722,Korean EDI,Pelvis MRI; 기본자기공명영상진단-복부-골반-조영제주입전·후 촬영판독,4161393,SNOMED,2009-01-31,2099-12-31
+HE229,42357671,Korean EDI,Pancreas MRI; 기본자기공명영상진단-복부-췌장-조영제주입전·후 촬영판독,40486021,SNOMED,2011-01-31,2099-12-31
+HE230,42357586,Korean EDI,Kidney and Adrenal MRI; 기본자기공명영상진단-복부-신장및부신-조영제주입전·후 촬영판독,45765684,SNOMED,2015-01-31,2099-12-31
+HE231,42360709,Korean EDI,Scrotum and Penile MRI; 기본자기공명영상진단-복부-음낭및음경-조영제주입전·후 촬영판독,46273764,SNOMED,2015-07-31,2099-12-31
+HE232,42357456,Korean EDI,Liver MRI; 기본자기공명영상진단-복부-간-조영제주입전·후 촬영판독,4329640,SNOMED,2009-01-31,2099-12-31
+HE233,42348212,Korean EDI,Cholangiogram MRI; 기본자기공명영상진단-복부-담췌관-조영제주입전·후 촬영판독,4326191,SNOMED,2009-01-31,2099-12-31
+HE234,42086545,Korean EDI,Prostate MRI; 기본자기공명영상진단-복부-전립선-조영제주입전·후 촬영판독,46271409,SNOMED,2015-07-31,2099-12-31
+HE237,42357931,Korean EDI,Thoracic MRA; 기본자기공명영상진단-혈관-흉부혈관-조영제주입전·후 촬영판독,46273026,SNOMED,2015-07-31,2099-12-31
+HE238,42354513,Korean EDI,Abdominal MRA; 기본자기공명영상진단-혈관-복부혈관-조영제주입전·후 촬영판독,46273948,SNOMED,2015-07-31,2099-12-31
+HE239,42357895,Korean EDI,Extremity MRA; 기본자기공명영상진단-혈관-사지혈관-조영제주입전·후 촬영판독,46271447,SNOMED,2015-07-31,2099-12-31
+HE241,42357697,Korean EDI,Whole body MRI; 기본자기공명영상진단-전신-조영제주입전·후 촬영판독,37208979,SNOMED,2019-07-31,2099-12-31
+HE309,42357714,Korean EDI,Cervical Spine MRI; 기본자기공명영상진단-척추-경추-중재적시술유도제2회부터,4082840,SNOMED,1970-01-01,2099-12-31
+HE310,42357860,Korean EDI,Thoracic Spine MRI; 기본자기공명영상진단-척추-흉추-중재적시술유도제2회부터,4082988,SNOMED,1970-01-01,2099-12-31
+HE311,42357742,Korean EDI,Lumbosacral Spine MRI; 기본자기공명영상진단-척추-요천추-중재적시술유도제2회부터,4202579,SNOMED,2009-01-31,2099-12-31
+HE312,42357828,Korean EDI,Myelogram MRI; 기본자기공명영상진단-척추-척추강-중재적시술유도제2회부터,37017030,SNOMED,2016-01-31,2099-12-31
+HE313,42357753,Korean EDI,Basic Magnetic Resonance Imaging- spine- lumbosacral spine- thoracic spine simultaneous photographing-Induction of interventional procedure- from 2nd time; 기본자기공명영상진단-척추-요천추-흉추 동시촬영-중재적시술유도제2회부터,4082839,SNOMED,1970-01-01,2099-12-31
+HE314,42357806,Korean EDI,"Basic Magnetic Resonance Imaging- spine- myelogram- cervical, thoracic, lumbosacral spine simultaneous photographing- Induction of interventional procedure- from 2nd time; 기본자기공명영상진단-척추-척추강-경추,흉추,요천추와동시촬영-중재적시술유도제2회부터",4082839,SNOMED,1970-01-01,2099-12-31
+HE322,42360325,Korean EDI,Upper Extremity MRI; 기본자기공명영상진단-근골격계-관절외상지-중재적시술유도제2회부터,4086399,SNOMED,1970-01-01,2099-12-31
+HE323,42357287,Korean EDI,Lower Extremity MRI; 기본자기공명영상진단-근골격계-관절외하지-중재적시술유도제2회부터,4010415,SNOMED,1970-01-01,2099-12-31
+HE324,42357963,Korean EDI,Heart MRI; 기본자기공명영상진단-흉부-심장-중재적시술유도제2회부터,4082987,SNOMED,1970-01-01,2099-12-31
+HE325,42358030,Korean EDI,Chest MRI; 기본자기공명영상진단-흉부-흉부-중재적시술유도제2회부터,4246485,SNOMED,1970-01-01,2099-12-31
+HE326,42357996,Korean EDI,Breast MRI; 기본자기공명영상진단-흉부-유방-중재적시술유도제2회부터,4082984,SNOMED,1970-01-01,2099-12-31
+HE327,42357560,Korean EDI,Abdomen MRI; 기본자기공명영상진단-복부-복부-중재적시술유도제2회부터,4083230,SNOMED,1970-01-01,2099-12-31
+HE328,42357496,Korean EDI,Pelvis MRI; 기본자기공명영상진단-복부-골반-중재적시술유도제2회부터,4097527,SNOMED,1970-01-01,2099-12-31
+HE329,42363998,Korean EDI,Pancreas MRI; 기본자기공명영상진단-복부-췌장-중재적시술유도제2회부터,4083232,SNOMED,1970-01-01,2099-12-31
+HE330,42357590,Korean EDI,Kidney and Adrenal MRI; 기본자기공명영상진단-복부-신장및부신-중재적시술유도제2회부터,4083231,SNOMED,1970-01-01,2099-12-31
+HE331,42357618,Korean EDI,Scrotum and Penile MRI; 기본자기공명영상진단-복부-음낭및음경-중재적시술유도제2회부터,4086276,SNOMED,1970-01-01,2099-12-31
+HE332,42363769,Korean EDI,Liver MRI; 기본자기공명영상진단-복부-간-중재적시술유도제2회부터,4082709,SNOMED,1970-01-01,2099-12-31
+HE333,42357527,Korean EDI,Cholangiogram MRI; 기본자기공명영상진단-복부-담췌관-중재적시술유도제2회부터,4194588,SNOMED,1970-01-01,2099-12-31
+HE334,42357646,Korean EDI,Prostate MRI; 기본자기공명영상진단-복부-전립선-중재적시술유도제2회부터,4192638,SNOMED,1970-01-01,2099-12-31
+HE409,42357701,Korean EDI,Cervical Spine MRI(Limited); 기본자기공명영상진단-척추-경추-제한적(방사선치료범위및위치결정등),4082840,SNOMED,1970-01-01,2099-12-31
+HE410,42357848,Korean EDI,Thoracic Spine MRI(Limited); 기본자기공명영상진단-척추-흉추-제한적(방사선치료범위및위치결정등),4082988,SNOMED,1970-01-01,2099-12-31
+HE411,42357731,Korean EDI,Lumbosacral Spine MRI(Limited); 기본자기공명영상진단-척추-요천추-제한적(방사선치료범위및위치결정등),4202579,SNOMED,2009-01-31,2099-12-31
+HE412,42357815,Korean EDI,Myelogram MRI(Limited); 기본자기공명영상진단-척추-척추강-제한적(방사선치료범위및위치결정등),37017030,SNOMED,2016-01-31,2099-12-31
+HE413,42363036,Korean EDI,Basic Magnetic Resonance Imaging- spine- lumbosacral spine- thoracic spine simultaneous photographing-Limited (Radiation therapy range and positioning etc.); 기본자기공명영상진단-척추-요천추-흉추와동시촬영-제한적(방사선치료범위및위치결정등),4082839,SNOMED,1970-01-01,2099-12-31
+HE414,42360916,Korean EDI,"Basic Magnetic Resonance Imaging- spine- myelogram- cervical, thoracic, lumbosacral spine simultaneous photographing-Limited (Radiation therapy range and positioning etc.); 기본자기공명영상진단-척추-척추강-경추,흉추,요천추와동시촬영-제한적(방사선치료범위및위치결정등)",4082839,SNOMED,1970-01-01,2099-12-31
+HE423,42362480,Korean EDI,Lower Extremity MRI(Limited); 기본자기공명영상진단-근골격계-관절외하지-제한적(방사선치료범위및위치결정등),4010415,SNOMED,1970-01-01,2099-12-31
+HE424,42357950,Korean EDI,Heart MRI(Limited); 기본자기공명영상진단-흉부-심장-제한적(방사선치료범위및위치결정등),4082987,SNOMED,1970-01-01,2099-12-31
+HE425,42358017,Korean EDI,Chest MRI(Limited); 기본자기공명영상진단-흉부-흉부-제한적(방사선치료범위및위치결정등),4246485,SNOMED,1970-01-01,2099-12-31
+HE426,42357983,Korean EDI,Breast MRI(Limited); 기본자기공명영상진단-흉부-유방-제한적(방사선치료범위및위치결정등),4082984,SNOMED,1970-01-01,2099-12-31
+HE427,42357547,Korean EDI,Abdomen MRI(Limited); 기본자기공명영상진단-복부-복부-제한적(방사선치료범위및위치결정등),4083230,SNOMED,1970-01-01,2099-12-31
+HE428,42357482,Korean EDI,Pelvis MRI(Limited); 기본자기공명영상진단-복부-골반-제한적(방사선치료범위및위치결정등),4097527,SNOMED,1970-01-01,2099-12-31
+HE429,42357664,Korean EDI,Pancreas MRI(Limited); 기본자기공명영상진단-복부-췌장-제한적(방사선치료범위및위치결정등),4083232,SNOMED,1970-01-01,2099-12-31
+HE430,42357580,Korean EDI,Kidney and Adrenal MRI(Limited); 기본자기공명영상진단-복부-신장및부신-제한적(방사선치료범위및위치결정등),4083231,SNOMED,1970-01-01,2099-12-31
+HE431,42357605,Korean EDI,Scrotum and Penile MRI(Limited); 기본자기공명영상진단-복부-음낭및음경-제한적(방사선치료범위및위치결정등),4086276,SNOMED,1970-01-01,2099-12-31
+HE432,42357454,Korean EDI,Liver MRI(Limited); 기본자기공명영상진단-복부-간-제한적(방사선치료범위및위치결정등),4082709,SNOMED,1970-01-01,2099-12-31
+HE433,42357516,Korean EDI,Cholangiogram MRI(Limited); 기본자기공명영상진단-복부-담췌관-제한적(방사선치료범위및위치결정등),4194588,SNOMED,1970-01-01,2099-12-31
+HE434,42357633,Korean EDI,Prostate MRI(Limited); 기본자기공명영상진단-복부-전립선-제한적(방사선치료범위및위치결정등),4192638,SNOMED,1970-01-01,2099-12-31
+HE509,42364025,Korean EDI,Cervical Spine MRI; 기본자기공명영상진단-척추-경추-3차원,4082840,SNOMED,1970-01-01,2099-12-31
+HE510,42365257,Korean EDI,Thoracic Spine MRI; 기본자기공명영상진단-척추-흉추-3차원,4082988,SNOMED,1970-01-01,2099-12-31
+HE511,42349317,Korean EDI,Lumbosacral Spine MRI; 기본자기공명영상진단-척추-요천추-3차원,4202579,SNOMED,2009-01-31,2099-12-31
+HE512,42357776,Korean EDI,Myelogram MRI; 기본자기공명영상진단-척추-척추강-3차원,37017030,SNOMED,2016-01-31,2099-12-31
+HE513,42366135,Korean EDI,Basic Magnetic Resonance Imaging- spine- lumbosacral spine- thoracic spine simultaneous photographing-3D; 기본자기공명영상진단-척추-요천추-흉추와동시촬영-3차원,4082839,SNOMED,1970-01-01,2099-12-31
+HE514,42357784,Korean EDI,"Basic Magnetic Resonance Imaging- spine- myelogram- cervical, thoracic, lumbosacral spine simultaneous photographing-3D; 기본자기공명영상진단-척추-척추강-경추,흉추,요천추와동시촬영-3차원",4082839,SNOMED,1970-01-01,2099-12-31
+HE522,42357238,Korean EDI,Upper Extremity MRI; 기본자기공명영상진단-근골격계-관절외상지-3차원,4086399,SNOMED,1970-01-01,2099-12-31
+HE523,42359290,Korean EDI,Lower Extremity MRI; 기본자기공명영상진단-근골격계-관절외하지-3차원,4010415,SNOMED,1970-01-01,2099-12-31
+HE524,42364286,Korean EDI,Heart MRI; 기본자기공명영상진단-흉부-심장-3차원,4082987,SNOMED,1970-01-01,2099-12-31
+HE525,42358003,Korean EDI,Chest MRI; 기본자기공명영상진단-흉부-흉부-3차원,4246485,SNOMED,1970-01-01,2099-12-31
+HE526,42357970,Korean EDI,Breast MRI; 기본자기공명영상진단-흉부-유방-3차원,4082984,SNOMED,1970-01-01,2099-12-31
+HE527,42357534,Korean EDI,Abdomen MRI; 기본자기공명영상진단-복부-복부-3차원,4083230,SNOMED,1970-01-01,2099-12-31
+HE528,42365340,Korean EDI,Pelvis MRI; 기본자기공명영상진단-복부-골반-3차원,4097527,SNOMED,1970-01-01,2099-12-31
+HE529,42357651,Korean EDI,Pancreas MRI; 기본자기공명영상진단-복부-췌장-3차원,4083232,SNOMED,1970-01-01,2099-12-31
+HE530,42357567,Korean EDI,Kidney and Adrenal MRI; 기본자기공명영상진단-복부-신장및부신-3차원,4083231,SNOMED,1970-01-01,2099-12-31
+HE531,42324751,Korean EDI,Scrotum and Penile MRI; 기본자기공명영상진단-복부-음낭및음경-3차원,4086276,SNOMED,1970-01-01,2099-12-31
+HE532,42357445,Korean EDI,Liver MRI; 기본자기공명영상진단-복부-간-3차원,4082709,SNOMED,1970-01-01,2099-12-31
+HE533,42357503,Korean EDI,Cholangiogram MRI; 기본자기공명영상진단-복부-담췌관-3차원,4194588,SNOMED,1970-01-01,2099-12-31
+HE534,42357625,Korean EDI,Prostate MRI; 기본자기공명영상진단-복부-전립선-3차원,4192638,SNOMED,1970-01-01,2099-12-31
+HE537,42357918,Korean EDI,Thoracic MRA; 기본자기공명영상진단-혈관-흉부혈관-3차원,45765681,SNOMED,2015-01-31,2099-12-31
+HE538,42357867,Korean EDI,Abdominal MRA; 기본자기공명영상진단-혈관-복부혈관-3차원,4082990,SNOMED,1970-01-01,2099-12-31
+HE539,42357882,Korean EDI,Extremity MRA; 기본자기공명영상진단-혈관-사지혈관-3차원,46271446,SNOMED,2015-07-31,2099-12-31
+HF101,42365131,Korean EDI,Diffusion MRI; 특수자기공명영상진단-확산,4260263,SNOMED,2009-01-31,2099-12-31
+HF103,42364018,Korean EDI,Spectroscopy; 특수자기공명영상진단-분광영상,4082847,SNOMED,1970-01-01,2099-12-31
+HF105,42363269,Korean EDI,Dynamic MRI; 특수자기공명영상진단-Dynamic [기본검사 포함],4013636,SNOMED,1970-01-01,2099-12-31
+HF106,42358056,Korean EDI,Dual Contrast MRI; 특수자기공명영상진단-이중조영 [기본검사 포함],4198856,SNOMED,1970-01-01,2099-12-31
+HI101,42366117,Korean EDI,Magnetic Resonance Imaging-Brain; 자기공명영상진단-기본검사-뇌-일반-촬영료 등,4105925,SNOMED,1970-01-01,2099-12-31
+HI103,42360683,Korean EDI,Magnetic Resonance Imaging-Face; 자기공명영상진단-기본검사-두경부-안면-일반-촬영료 등,4149350,SNOMED,1970-01-01,2099-12-31
+HI104,42366268,Korean EDI,Magnetic Resonance Imaging-PNS; 자기공명영상진단-기본검사-두경부-부비동-일반-촬영료 등,4086271,SNOMED,1970-01-01,2099-12-31
+HI105,42357682,Korean EDI,Magnetic Resonance Imaging-Orbit; 자기공명영상진단-기본검사-두경부-안와-일반-촬영료 등,4149107,SNOMED,1970-01-01,2099-12-31
+HI107,42366006,Korean EDI,Magnetic Resonance Imaging-TM Joint; 자기공명영상진단-기본검사-두경부-측두하악관절-일반-촬영료 등,4212635,SNOMED,1970-01-01,2099-12-31
+HI108,42359437,Korean EDI,Magnetic Resonance Imaging-Neck; 자기공명영상진단-기본검사-두경부-경부-일반-촬영료 등,4218948,SNOMED,1970-01-01,2099-12-31
+HI135,42364377,Korean EDI,Magnetic Resonance Imaging-Artery or Vein; 자기공명영상진단-기본검사-혈관[동맥 또는 정맥]-뇌혈관-일반-촬영료 등,4082846,SNOMED,1970-01-01,2099-12-31
+HI136,42363225,Korean EDI,Magnetic Resonance Imaging-Artery or Vein; 자기공명영상진단-기본검사-혈관[동맥 또는 정맥]-경부혈관-일반-촬영료 등,4084303,SNOMED,1970-01-01,2099-12-31
+HI204,42363841,Korean EDI,Magnetic Resonance Imaging-PNS; 자기공명영상진단-기본검사-두경부-부비동-조영제 주입 전·후 촬영 판독-촬영료 등,4199696,SNOMED,2009-01-31,2099-12-31
+HI205,42357707,Korean EDI,Magnetic Resonance Imaging-Orbit; 자기공명영상진단-기본검사-두경부-안와-조영제 주입 전·후 촬영 판독-촬영료 등,4161392,SNOMED,2009-01-31,2099-12-31
+HI208,42360524,Korean EDI,Magnetic Resonance Imaging-Neck; 자기공명영상진단-기본검사-두경부-경부-조영제 주입 전·후 촬영 판독-촬영료 등,4161634,SNOMED,2009-01-31,2099-12-31
+HX301,42364661,Korean EDI,Shunt Evaluation; 뇌실단락검사,4243033,SNOMED,1970-01-01,2099-12-31
+HX303,42359200,Korean EDI,Enterogastroesophageal Reflux Study; 장위식도역류검사,4178369,SNOMED,1970-01-01,2099-12-31
+HX305,42357757,Korean EDI,Raynaud Scan; 레이노드스캔,4098047,SNOMED,1970-01-01,2099-12-31
+HX306,42363404,Korean EDI,Arteriovenous shunt lung perfusion scan; 동정맥단락폐관류스캔,4282144,SNOMED,1970-01-01,2099-12-31
+HX307,42363326,Korean EDI,Adrenal Cortical Scan; 부신피질스캔,4162872,SNOMED,1970-01-01,2099-12-31
+HY304,42363264,Korean EDI,Gastrointestinal Protein Losing Test; 위장관단백소실검사,4048159,SNOMED,1970-01-01,2099-12-31
+HY402,42358156,Korean EDI,Verification and Correction-Portal Film Verification and Correction; 조사면 검교정(필름 검교정),4264890,SNOMED,1970-01-01,2099-12-31
+J0041,42361956,Korean EDI,Injection aseptic fee of prepare medicine (per case)- Anticancer drug for injection; 주사제 무균조제료(1건당)-주사용 항암제,4295050,SNOMED,1970-01-01,2099-12-31
+J2000,42362794,Korean EDI,Inpatient- prepare medicine · Medication Guide fee (per day); 입원환자 조제·복약지도료(1일당),4321437,SNOMED,1970-01-01,2099-12-31
+KK020,42358203,Korean EDI,Intravenous Injection; 정맥내일시주사[1일당],4181778,SNOMED,1970-01-01,2099-12-31
+KK031,42361020,Korean EDI,"Intraarterial Injection-for Artery of Internal Organ; 동맥주사-폐동맥기시부,대동맥궁및복부대동맥등심부동맥의경우",4270341,SNOMED,1970-01-01,2099-12-31
+KK032,42365098,Korean EDI,Intracardiac Injection; 심장내주사,4284327,SNOMED,1970-01-01,2099-12-31
+KK061,42357907,Korean EDI,Perineural Injection; 신경간내주사,4099926,SNOMED,1970-01-01,2099-12-31
+KK062,42358838,Korean EDI,tendon sheath Injection; 건초내주사,4234723,SNOMED,1970-01-01,2099-12-31
+KK070,42360203,Korean EDI,Intraosseous Injection; 골수내주사,4076780,SNOMED,1970-01-01,2099-12-31
+KK090,42360790,Korean EDI,Intraarticular Injection; 관절강내주사,4101113,SNOMED,1970-01-01,2099-12-31
+KK110,42356945,Korean EDI,Subconjunctival Injection; 결막하주사,4252594,SNOMED,1970-01-01,2099-12-31
+KK120,42359018,Korean EDI,Intracorneal Injection; 각막내주사,4003375,SNOMED,1970-01-01,2099-12-31
+KK130,42360164,Korean EDI,Retrobulbar Injection; 구후주사[테논씨낭내주사],4025796,SNOMED,1970-01-01,2099-12-31
+KK135,42361769,Korean EDI,Intraturbinate Injection; 비갑개내주사,4219091,SNOMED,1970-01-01,2099-12-31
+KK140,42365569,Korean EDI,Intralaryngeal Instillation; 후두내주입,4135710,SNOMED,1970-01-01,2099-12-31
+KK151,42362910,Korean EDI,Chemotherapic Administration-Intravenous; 항암제주입-정맥내일시주사[1일당],4146535,SNOMED,1970-01-01,2099-12-31
+KK160,42363528,Korean EDI,Rapid and Warming Blood(fluid) Infusion; 급속항온주입[1회당],4204138,SNOMED,2009-01-31,2099-12-31
+KX001,42362495,Korean EDI,Intraprostatic Injection; 전립선내주사,4142491,SNOMED,1970-01-01,2099-12-31
+L0101,42358666,Korean EDI,Intravenous-General Anethesia; 정맥마취(전신마취),4082996,SNOMED,1970-01-01,2099-12-31
+L1211,42363705,Korean EDI,Basic Anesthetic Management for 1hr-Endotracheal Closed Circuit General Anesthesia; 기관내삽관에의한폐쇄순환식전신마취관리기본[1시간기준],4145786,SNOMED,1970-01-01,2099-12-31
+L1212,42358525,Korean EDI,Basic Anesthetic Management for 1hr-Closed Circuit General Anesthesia with Mask; 마스크에의한폐쇄순환식전신마취관리기본[1시간기준],4118897,SNOMED,1970-01-01,2099-12-31
+L1214,42365910,Korean EDI,Basic Anesthetic Management for 1hr-Epidural Anesthesia; 경막외마취관리기본[1시간기준],4078199,SNOMED,1970-01-01,2099-12-31
+L1215,42363483,Korean EDI,Basic Anesthetic Management for 1hr-Brachial Plexus Anesthesia; 상박신경총마취관리기본[1시간기준],4262378,SNOMED,1970-01-01,2099-12-31
+L1320,42359467,Korean EDI,Monitoring of Central Venous Pressure in Anesthesia; 마취중중심정맥압감시[카테터삽입료포함],4322479,SNOMED,1970-01-01,2099-12-31
+L1330,42365177,Korean EDI,Monitoring of intraarterial Pressure in Anesthesia; 마취중침습적동맥압감시[카테터삽입료포함],4218778,SNOMED,1970-01-01,2099-12-31
+L1340,42359463,Korean EDI,Monitoring fee in Anesthesia- Monitoring the waveform variation index during anesthesia; 마취중 감시료-마취중 파형변이지수감시,4217901,SNOMED,1970-01-01,2099-12-31
+LA201,42360178,Korean EDI,Epidural Injection (Epidural PCA)- on the Day of procedure- If both injection and infuser are installed; 경막외 주입(Epidural PCA)-시술당일-주입로 확보 및 infuser 장착을 모두 실시한 경우,4287923,SNOMED,1970-01-01,2099-12-31
+LA204,42358191,Korean EDI,Intravenous injection (IV PCA)- on the Day of procedure- If both injection and infuser are installed; 정맥내 주입(IV PCA)-시술당일-주입로 확보 및 infuser 장착을 모두 실시한 경우,4086425,SNOMED,1970-01-01,2099-12-31
+LA222,42363688,Korean EDI,Epidural Nerve Block-by Catheter Insertion through Subcutaneous Tunnel; 경막외신경차단술(지속적차단)-피하터널식카테터삽입에의한방법-삽입당일[삽입료포함],4267121,SNOMED,1970-01-01,2099-12-31
+LA224,42362582,Korean EDI,Epidural Nerve Block-by Implantation of Subcutaneous Reservoir Pump; 경막외신경차단술(지속적차단)-피하매몰저장기펌프삽입술에의한방법-삽입당일[삽입료포함],4174450,SNOMED,1970-01-01,2099-12-31
+LA232,42365509,Korean EDI,Cranial Nerve or Its Peripheral Branch Block-Facial Nerve; 뇌신경및뇌신경말초지차단술-안면신경,4005967,SNOMED,1970-01-01,2099-12-31
+LA234,42365452,Korean EDI,Cranial Nerve or Its Peripheral Branch Block-Sphenopalatine Ganglion; 뇌신경및뇌신경말초지차단술-접구개신경절,4312757,SNOMED,1970-01-01,2099-12-31
+LA241,42356224,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Greater or Lesser Occipital Nerve; 척수신경말초지차단술-대소후두신경,4233524,SNOMED,1970-01-01,2099-12-31
+LA244,42360159,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Phrenic Nerve; 척수신경말초지차단술-횡격막신경,4100472,SNOMED,1970-01-01,2099-12-31
+LA245,42360101,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Spinal Accessory Nerve; 척수신경말초지차단술-척추부신경,4266069,SNOMED,1970-01-01,2099-12-31
+LA247,42359744,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Scapular Nerve; 척수신경말초지차단술-견갑신경,4226424,SNOMED,1970-01-01,2099-12-31
+LA264,42356881,Korean EDI,Sympathetic Plexus or Ganglion Block-Complex(Celiac Plexus); 교감신경총및신경절차단술-복잡한것(복강신경총),4110981,SNOMED,1970-01-01,2099-12-31
+LA271,42356952,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Pudendal Nerve; 척수신경말초지차단술-음부신경,4238713,SNOMED,1970-01-01,2099-12-31
+LA272,42357170,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Sciatic Nerve; 척수신경말초지차단술-좌골신경,4200837,SNOMED,1970-01-01,2099-12-31
+LA273,42360129,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Obturator Nerve; 척수신경말초지차단술-폐쇄신경,4333963,SNOMED,1970-01-01,2099-12-31
+LA274,42356521,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Femoral Nerve; 척수신경말초지차단술-대퇴신경,4336456,SNOMED,1970-01-01,2099-12-31
+LA275,42359962,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Lateral Cutaneous Femoral Nerve; 척수신경말초지차단술-외측대퇴피신경,4333279,SNOMED,1970-01-01,2099-12-31
+LA276,42355473,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Brachial Plexus; 척수신경말초지차단술-상박신경총,4262378,SNOMED,1970-01-01,2099-12-31
+LA321,42360314,Korean EDI,Epidural Nerve Block-Single(Cervical and/or Thoracic); 경막외신경차단술-일회성차단(경추및흉추),4120974,SNOMED,1970-01-01,2099-12-31
+LA322,42360343,Korean EDI,Epidural Nerve Block-Single(Lumbar and/or Caudal); 경막외신경차단술-일회성차단(요추및천추),4110978,SNOMED,1970-01-01,2099-12-31
+LA330,42363752,Korean EDI,Removal of Subcutaneous Reservoir Pump; 경막외저장기펌프제거술,4171278,SNOMED,1970-01-01,2099-12-31
+LA340,42364020,Korean EDI,"Trigeminal Ganglion, Maxillary Nerve, Mandibular Nerve; 뇌신경및뇌신경말초지차단술-삼차신경절,상악신경,하악신경",4045622,SNOMED,1970-01-01,2099-12-31
+LA341,42365862,Korean EDI,"Supra-Orbital Nerve, Infra-Orbital Nerve, Mental Nerve, Auriculotemporal Nerve; 뇌신경및뇌신경말초지차단술-안와상,안와하,턱끝,이개측두신경",4181780,SNOMED,1970-01-01,2099-12-31
+LA346,42356882,Korean EDI,Block of Peripheral Branch of Spinal Nerve-Axillary Nerve; 척수신경말초지차단술-액와신경,4209891,SNOMED,1970-01-01,2099-12-31
+LA352,42361080,Korean EDI,"Spinal Nerve Plexus, Root or Ganglion Block-Paravertebral Nerve; 척수신경총,신경근및신경절차단술-방척추신경",4205280,SNOMED,1970-01-01,2099-12-31
+LA366,42356901,Korean EDI,Sympathetic Plexus or Ganglion Block-Complex(Superior Hypogastric Plexus); 교감신경총및신경절차단술-복잡한것(상하복신경총),2110779,CPT4,1970-01-01,2099-12-31
+LA371,42364280,Korean EDI,Continuous (Patient Controlled) analgesia of peripheral nerve or plexus-Sciatic nerve; 지속적 말초신경 및 신경총 통증(자가)조절법-좌골신경-카테터삽입 당일 [카테터삽입료 포함],2110762,CPT4,2018-01-31,2099-12-31
+LA372,42364624,Korean EDI,Continuous (Patient Controlled) analgesia of peripheral nerve or plexus-Sciatic nerve; 지속적 말초신경 및 신경총 통증(자가)조절법-좌골신경-익일 이후 (1일당),2110762,CPT4,1970-01-01,2099-12-31
+LA373,42364929,Korean EDI,Continuous (Patient Controlled) analgesia of peripheral nerve or plexus-Femoral nerve; 지속적 말초신경 및 신경총 통증(자가)조절법-대퇴신경-카테터삽입 당일 [카테터삽입료 포함],2110764,CPT4,2014-01-31,2099-12-31
+LA375,42362097,Korean EDI,Continuous (Patient Controlled) analgesia of peripheral nerve or plexus-Interscalene Brachial Plexus; 지속적 말초신경 및 신경총 통증(자가)조절법-사각근간 상박신경총-카테터삽입 당일 [카테터삽입료 포함],2110753,CPT4,2011-01-31,2099-12-31
+LB310,42362564,Korean EDI,Subarachnoid Nerve Destruction By Neurolytic Substance; 지주막하신경파괴술,4302768,SNOMED,1970-01-01,2099-12-31
+LB346,42357182,Korean EDI,Destruction of Spinal Nerve or Its Peripheral Branch By Neurolytic Substance-Pudendal Nerve; 척수신경및말초지파괴술-음부신경,4258552,SNOMED,2009-01-31,2099-12-31
+M0040,42360508,Korean EDI,Oxygen Inhalation; 산소흡입[1일당],4239130,SNOMED,1970-01-01,2099-12-31
+M0045,42363058,Korean EDI,Nebulizer Treatment of Lower Airway; 하기도증기흡입치료[1일당],4206920,SNOMED,1970-01-01,2099-12-31
+M0046,42358766,Korean EDI,Heated Humidified High Flow Nasal Cannula Therapy; 가온가습고유량비강캐뉼라요법,4155151,SNOMED,1970-01-01,2099-12-31
+M0050,42363930,Korean EDI,Nelaton Catheterization; 도뇨[1회당],4075951,SNOMED,1970-01-01,2099-12-31
+M0060,42364614,Korean EDI,Foley Catheterization; 유치 카테터 설치,4076762,SNOMED,1970-01-01,2099-12-31
+M0065,42362498,Korean EDI,Ureteral Catheterization; 요관카테터법,4180860,SNOMED,1970-01-01,2099-12-31
+M0075,42086534,Korean EDI,Cauterization of Umbilical Granuloma; 제대육아종소작술,4031300,SNOMED,1970-01-01,2099-12-31
+M0078,42364083,Korean EDI,Rectal Tube Insertion; 직장내삽관술,4196932,SNOMED,1970-01-01,2099-12-31
+M0111,42363152,Korean EDI,Simple Dressing; 단순처치[1일당],4305581,SNOMED,1970-01-01,2099-12-31
+M0121,42357085,Korean EDI,Infectious Wound Dressing; 염증성처치[1일당],4080499,SNOMED,1970-01-01,2099-12-31
+M0135,42361100,Korean EDI,Suction Drainage or Tracheostomy Suction Etc.; 흡입배농 및 배액처치-상급종합병원 중환자실 입원,4164516,SNOMED,1970-01-01,2099-12-31
+M0141,42364004,Korean EDI,Sitz Bath; 좌욕[1일당],4215155,SNOMED,1970-01-01,2099-12-31
+M0153,42357517,Korean EDI,Tub Bath; 통목욕간호[1일당],4030240,SNOMED,1970-01-01,2099-12-31
+M0155,42363973,Korean EDI,Bed Bath; 침상목욕간호[1일당],4238681,SNOMED,1970-01-01,2099-12-31
+M0581,42357298,Korean EDI,Hyperbaric Oxygen Therapy; (상급종합병원·종합병원)고압산소요법-1시간까지,4087611,SNOMED,1970-01-01,2099-12-31
+M0651,42361481,Korean EDI,Cryoablation of Arrhythmia; 부정맥의 냉각절제술-냉각풍선절제술,4050570,SNOMED,1970-01-01,2099-12-31
+M0652,42363648,Korean EDI,Cryoablation of Arrhythmia-Septal Puncture; 부정맥의 냉각절제술-냉각풍선절제술-중격천자,4050570,SNOMED,1970-01-01,2099-12-31
+M0654,42364764,Korean EDI,"Radiofrequency Ablation of Arrhythmia (during atrial fibrillation ablation, linear ablation for cavotricuspid ishmus, CTI); 부정맥의고주파절제술(심방세동절제시 하대정맥-삼첨판륜 협부에 대한 선형절제술)",4049987,SNOMED,1970-01-01,2099-12-31
+M0654,42364764,Korean EDI,"Radiofrequency Ablation of Arrhythmia (during atrial fibrillation ablation, linear ablation for cavotricuspid ishmus, CTI); 부정맥의고주파절제술(심방세동절제시 하대정맥-삼첨판륜 협부에 대한 선형절제술)",4049987,SNOMED,1970-01-01,2099-12-31
+M1583,42357360,Korean EDI,Cardiopulmonary Resuscitation; (상급종합병원·종합병원)심폐소생술(15분까지),4232320,SNOMED,1970-01-01,2099-12-31
+M5850,42364723,Korean EDI,Artificial Ventilation; 인공호흡[기관내삽관료 별도]-3시간까지,4230167,SNOMED,1970-01-01,2099-12-31
+M5859,42360412,Korean EDI,Tracheal Intubation; 기관내삽관술,4013354,SNOMED,1970-01-01,2099-12-31
+M5875,42355515,Korean EDI,Cardiopulmonary Resuscitation; 심폐소생술(30분을초과하여45분까지),4232320,SNOMED,1970-01-01,2099-12-31
+M5876,42356958,Korean EDI,Cardiopulmonary Resuscitation; 심폐소생술(45분을초과하여60분까지),4232320,SNOMED,1970-01-01,2099-12-31
+M5901,42357027,Korean EDI,Gastric Lavage-Orograstric Tube Insertion; 위세척[위관삽입료포함][1일당]-구위관삽입에 의한 세척,4071646,SNOMED,1970-01-01,2099-12-31
+M5902,42357095,Korean EDI,Gastric Lavage-During Gastrointestinal Bleeding; 위세척[위관삽입료포함][1일당]-비위관삽입에 의한 세척-위출혈의 경우,4232921,SNOMED,1970-01-01,2099-12-31
+M5910,42363378,Korean EDI,Sankenstaken-Blackmore Tube Insertion; 식도압박지혈튜브삽입,4125150,SNOMED,1970-01-01,2099-12-31
+M5951,42357735,Korean EDI,"Emergency Cervical Immobilization With Cervical Collar, Etc.; 응급고정술[Cervical Collar 착용 등을 이용한 경추부 고정]",4161691,SNOMED,1970-01-01,2099-12-31
+M5952,42357777,Korean EDI,Emergency Spine Immobilization; 응급고정술[척추고정],4170947,SNOMED,1970-01-01,2099-12-31
+M5961,42363427,Korean EDI,Rapid Internal Body Temperature Control Therapy-With Gastric Lavage; 급속내부체온조절요법-위세척에의한경우,4108855,SNOMED,1970-01-01,2099-12-31
+M5970,42364163,Korean EDI,Therapeutic Hypothermia; 치료적저체온요법[1일당],4203429,SNOMED,1970-01-01,2099-12-31
+M5990,42357208,Korean EDI,Selective Head Hypothermia; 선택적 두부 저체온 요법,4218726,SNOMED,1970-01-01,2099-12-31
+M6521,42352011,Korean EDI,Percutaneous Atrial Septostomy-Balloon; 경피적심방중격절개술-풍선심방중격절개술,4154621,SNOMED,1970-01-01,2099-12-31
+M6522,42364379,Korean EDI,Percutaneous Atrial Septostomy-Blade; 경피적심방중격절개술-칼날심방중격절개술,4151906,SNOMED,1970-01-01,2099-12-31
+M6551,42357189,Korean EDI,Percutaneous Transluminal Coronary Angioplasty-Single Vessel; 경피적관상동맥확장술-단일혈관,4006788,SNOMED,1970-01-01,2099-12-31
+M6563,42356963,Korean EDI,Percutaneous Transcatheter Placement of Intracoronary Stent; 경피적관상동맥스텐트삽입술(경피적관상동맥확장술및경피적관상동맥죽상반절제술과동시)-단일혈관,4181025,SNOMED,2008-01-31,2099-12-31
+M6593,42358979,Korean EDI,Percutaneous Transluminal Angioplasty-Cerebral; 경피적풍선혈관성형술-뇌혈관,4205799,SNOMED,2009-01-31,2099-12-31
+M6594,42358870,Korean EDI,Percutaneous Transluminal Angioplasty-Carotid; 경피적풍선혈관성형술-경동맥[추골동맥포함],4020941,SNOMED,1970-01-01,2099-12-31
+M6595,42363276,Korean EDI,Percutaneous Transluminal Angioplasty-Aortic; 경피적풍선혈관성형술-대동맥,4019033,SNOMED,1970-01-01,2099-12-31
+M6596,42366086,Korean EDI,Percutaneous Transluminal Angioplasty-Pulmonary; 경피적풍선혈관성형술-폐동맥,4138765,SNOMED,1970-01-01,2099-12-31
+M6597,42358925,Korean EDI,Percutaneous Transluminal Angioplasty-Others; 경피적풍선혈관성형술-기타혈관,4184298,SNOMED,1970-01-01,2099-12-31
+M6620,42359707,Korean EDI,Percutaneous Intravascular Installation of Metallic Stent-Percutaneous Intravascular Atherectomy; 경피적혈관내죽종제거술,4190630,SNOMED,1970-01-01,2099-12-31
+M6630,42356939,Korean EDI,Percutaneous Thrombus Removal-Thrombolysis(Intracranial vessel); 경피적혈전제거술-혈전용해술-두개강내 혈관,4047016,SNOMED,1970-01-01,2099-12-31
+M6632,42357083,Korean EDI,Percutaneous Thrombus Removal-Thrombolysis-Others; 경피적혈전제거술-혈전용해술[기타혈관],4085113,SNOMED,1970-01-01,2099-12-31
+M6636,42359873,Korean EDI,Percutaneous Thrombus Removal-Mechanical thrombectomy(Intracranial vessel); 경피적혈전제거술-기계적혈전제거술[카테터법]-두개강내 혈관,4161134,SNOMED,2009-01-31,2099-12-31
+M6644,42357729,Korean EDI,Embolization-Others; 혈관색전술-기타혈관,4046732,SNOMED,1970-01-01,2099-12-31
+M6650,42341566,Korean EDI,Percutaneous Installation of Inferior Vena Cava Filter; 경피적하대정맥여과기설치술,4287926,SNOMED,1970-01-01,2099-12-31
+M6690,42364109,Korean EDI,Percutaneous Cholecystostomy; 경피적담낭조루술[유도료별도산정],4067681,SNOMED,1970-01-01,2099-12-31
+M6710,42363054,Korean EDI,Transjugular Intrahepatic Portocaval Shunt; 경경정맥간내문맥정맥단락술[유도료별도산정],4052390,SNOMED,1970-01-01,2099-12-31
+M6730,42358323,Korean EDI,Percutaneous Gastrostomy; 경피적위루술,4122234,SNOMED,1970-01-01,2099-12-31
+M6750,42358066,Korean EDI,Percutaneous Drainage Catheter Exchange; 경피적배액관교환술,4239327,SNOMED,1970-01-01,2099-12-31
+M6793,42358086,Korean EDI,Percutaneous Nasolacrimal Duct Dilatation With Stent; 경피적비루관확장술-스텐트에의한것,4170890,SNOMED,1970-01-01,2099-12-31
+M6800,42349134,Korean EDI,Localization of Nonpalpable Breast Mass; 비촉지유방종양침위치결정술[유도료별도산정],4034161,SNOMED,1970-01-01,2099-12-31
+M6830,42366298,Korean EDI,"Percutaneous Enterostomy; 경피적장루술[공장루,맹장루포함][유도료별도산정]",4314436,SNOMED,1970-01-01,2099-12-31
+M6890,42361400,Korean EDI,Percutaneous Radiofrequency Ablation - Renal Cancer; 경피적 고주파열치료술 [유도료 별도 산정]-신장암,4143527,SNOMED,1970-01-01,2099-12-31
+M6900,42362487,Korean EDI,Percutaneous Radiofrequency Ablation - Lung Cancer; 경피적 고주파열치료술 [유도료 별도 산정]-폐암,4143832,SNOMED,1970-01-01,2099-12-31
+N0011,42359415,Korean EDI,"Burn Dressing Including Hand,Foot,Finger or Toe,Face,Neck,Genitalia; 화상처치-9%이하의범위[수족지,안면,경부,성기를 포함하는경우]",4233678,SNOMED,1970-01-01,2099-12-31
+N0041,42362370,Korean EDI,"Escharectomy[9% Under]-Hand, Foot, Finger or Toe; 화상의가피절제술-9%이하의범위[수.족,지에준하는범위]",4157529,SNOMED,1970-01-01,2099-12-31
+N0042,42362140,Korean EDI,"Escharectomy[9% Under]-Upper Extremity, Half of Lower Extremity, Head, Neck or Face; 화상의가피절제술-9%이하의범위[상지대부분,하지의반or두부,경부,안면의대부분에준하는범위]",4157529,SNOMED,1970-01-01,2099-12-31
+N0043,42365542,Korean EDI,"Escharectomy[10~18%]-One Lower Extremity, Abdomen or Back; 화상의가피절제술-10~18%의범위[하지의1지,복부또는배부에준하는범위]",4157529,SNOMED,1970-01-01,2099-12-31
+N0053,42365297,Korean EDI,"Burn Dressing(Scald,Flame,Frostbite,Chemical Burn Etc)[10~18%]-One Lower Extremity, Abdomen or Back; 화상처치-열탕,화염,동상,화학화상등의경우-하지의1지,복부또는배부에준하는범위[10%~18%의범위]",4233678,SNOMED,1970-01-01,2099-12-31
+N0054,42365795,Korean EDI,"Burn Dressing(Scald,Flame,Frostbite,Chemical Burn Etc)[19~36%]-Both Lower Extremities or Trunk; 화상처치-열탕,화염,동상,화학화상등의경우-양하지또는동체(복부및배부)에준하는범위[19%~36%의범위]",4233678,SNOMED,1970-01-01,2099-12-31
+N0057,42363239,Korean EDI,"Electrical Burn Dressing With Injury of Muscle, Skeletal or Tendon; 화상처치-전기화상의 경우(근육,골격,인대의 손상이 포함된 경우)",4233678,SNOMED,1970-01-01,2099-12-31
+N0091,42364017,Korean EDI,Intralesional Injection-25㎠ Below; 병변내주입요법-25㎠미만,4100330,SNOMED,1970-01-01,2099-12-31
+N0092,42330362,Korean EDI,Intralesional Injection-25㎠ Over; 병변내주입요법-25㎠이상,4100330,SNOMED,1970-01-01,2099-12-31
+N0111,42362820,Korean EDI,Dermabrasion-25㎠ Below; 박피술[종양치료에 한함]-25㎠미만,4291158,SNOMED,1970-01-01,2099-12-31
+N0112,42361787,Korean EDI,Dermabrasion-25㎠ Over; 박피술[종양치료에 한함]-25㎠이상,4291158,SNOMED,1970-01-01,2099-12-31
+N0144,42363389,Korean EDI,"Removal of Pressure Corn(Excision Including Deep Muscle Layer); 티눈제거술(절제,근층심부포함)",4041850,SNOMED,1970-01-01,2099-12-31
+N0151,42359995,Korean EDI,Wide Excision of Skin Malignant Tumor; 피부악성종양적출술(광역수술),4201230,SNOMED,1970-01-01,2099-12-31
+N0153,42364014,Korean EDI,Mohs Micrographicsurgery; 피부악성종양적출술(모즈미세도식수술),4167550,SNOMED,1970-01-01,2099-12-31
+N0170,42362836,Korean EDI,Split Thickness Skin Graft-Others(900㎠ Over); 부분층피부이식술-기타(900㎠이상),4143658,SNOMED,1970-01-01,2099-12-31
+N0233,42365613,Korean EDI,"Removal of Subcutaneous Benign Tumor; 연부조직종양적출술(지방종,혈관종,섬유종,거대세포종,화골성근염등)-피하양성종양",4183558,SNOMED,1970-01-01,2099-12-31
+N0234,42359372,Korean EDI,"Removal of Subfascial or Intramuscular Benign Tumor; 연부조직종양적출술(지방종,혈관종,섬유종,거대세포종,화골성근염등)-근막하또는근육내양성종양",4167978,SNOMED,1970-01-01,2099-12-31
+N0241,42362465,Korean EDI,Release of Scar Contracture; 반흔구축성형술(운동제한이있는것),4103283,SNOMED,1970-01-01,2099-12-31
+N0249,42363635,Korean EDI,Release of Scar Contracture And Flap Operation; 반흔구축성형술및국소피판술[운동제한이있는것],4073110,SNOMED,1970-01-01,2099-12-31
+N0252,42358843,Korean EDI,Operation of Polydactyly(Others); 다지증수술(기타),4267421,SNOMED,1970-01-01,2099-12-31
+N0260,42359309,Korean EDI,Operation of Syndactyly; 지유착증수술,4078366,SNOMED,1970-01-01,2099-12-31
+N0270,42360158,Korean EDI,Epiphysiodesis[Including Stapling]; 골성장판성장억제술[스태플링 포함],4068994,SNOMED,1970-01-01,2099-12-31
+N0281,42358294,Korean EDI,"Curettage or Excision of Benign Bone Tumor[Pelvis,Femur,Tibia]; 양성골종양의 소파술 또는 절제술(골반골,대퇴골,하퇴골)",4003708,SNOMED,1970-01-01,2099-12-31
+N0302,42359661,Korean EDI,Osteotomy[Upper And Lower Extremity]; 절골술[상하지],4305752,SNOMED,1970-01-01,2099-12-31
+N0312,42364034,Korean EDI,Bone Graft; 골이식술,4214028,SNOMED,1970-01-01,2099-12-31
+N0324,42356841,Korean EDI,"Burr Hole or Trephination For Others; 천두술(기타의것[도관,reservoir,ICP monitor 삽입 등])",4285891,SNOMED,1970-01-01,2099-12-31
+N0353,42359040,Korean EDI,Closed Reduction of Nasal Bone Fracture; 비골골절 비관혈적정복술,4097890,SNOMED,1970-01-01,2099-12-31
+N0354,42362094,Korean EDI,Open Reduction of Nasal Fracture; 비골골절 관혈적정복술,4264828,SNOMED,1970-01-01,2099-12-31
+N0391,42362245,Korean EDI,Partial Maxillectomy; 상악골부분절제술,4075890,SNOMED,1970-01-01,2099-12-31
+N0392,42362678,Korean EDI,Total Maxillectomy; 상악골전적출술,4072543,SNOMED,1970-01-01,2099-12-31
+N0411,42358009,Korean EDI,Reconstruction of Mandible; 하악골재건술,4228824,SNOMED,1970-01-01,2099-12-31
+N0421,42357433,Korean EDI,Partial Mandibulectomy; 하악골부분절제술,4216307,SNOMED,1970-01-01,2099-12-31
+N0422,42360460,Korean EDI,Hemimandibulectomy; 하악골반측절제술,4272634,SNOMED,1970-01-01,2099-12-31
+N0424,42363172,Korean EDI,Mandibular Distraction Osteogenesis distractor removal; 악골내골신장기구제거술,4072550,SNOMED,1970-01-01,2099-12-31
+N0428,42361622,Korean EDI,Coronoidectomy; 관상돌기절제술,4208847,SNOMED,1970-01-01,2099-12-31
+N0435,42360846,Korean EDI,Resection of Malignant Tumor(Marginal Mandibulectomy); 하악골악성종양절제술[림프절청소포함]-하악골변연절제,4232091,SNOMED,2009-01-31,2099-12-31
+N0473,42358631,Korean EDI,Percutaneous Balloon Kyphoplasty[Including Discography]; 경피적척추후굴풍선복원술[방사선료포함]-제1부위,4139039,SNOMED,1970-01-01,2099-12-31
+N0475,42358718,Korean EDI,Percutaneous Sacroplasty[Including Discography]; 경피적천추성형술[방사선료포함],4328012,SNOMED,2009-01-31,2099-12-31
+N0480,42361636,Korean EDI,Operation of Spina Bifida; 척추열수술,4077729,SNOMED,1970-01-01,2099-12-31
+N0500,42365851,Korean EDI,Costotransversectomy; 늑골척추횡돌기절제술,4212633,SNOMED,1970-01-01,2099-12-31
+N0531,42358291,Korean EDI,Closed Reduction of Rib Fracture; 늑골골절 비관혈적정복술,4233453,SNOMED,2009-01-31,2099-12-31
+N0532,42357079,Korean EDI,Open Reduction of Rib Fracture; 늑골골절 관혈적정복술,4234766,SNOMED,2009-01-31,2099-12-31
+N0542,42358420,Korean EDI,Excision of Others; 늑골절제술(기타의 늑골),4127484,SNOMED,1970-01-01,2099-12-31
+N0561,42356852,Korean EDI,Disarticulation of Extremities[Interthoracoscapular]; 사지관절이단술[견갑흉곽간],4223824,SNOMED,1970-01-01,2099-12-31
+N0562,42357018,Korean EDI,Disarticulation of Extremities[Hip]; 사지관절이단술[고관절],4242396,SNOMED,1970-01-01,2099-12-31
+N0563,42356929,Korean EDI,Disarticulation of Extremities[Shoulder]; 사지관절이단술[견관절],4030398,SNOMED,1970-01-01,2099-12-31
+N0564,42357097,Korean EDI,Disarticulation of Extremities[Knee]; 사지관절이단술[슬관절],4143795,SNOMED,1970-01-01,2099-12-31
+N0572,42357804,Korean EDI,Amputation of Extremities[Thigh]; 사지절단술[대퇴],4195136,SNOMED,1970-01-01,2099-12-31
+N0573,42357937,Korean EDI,"Amputation of Extremities[Upper Arm,Forearm,Lower Leg]; 사지절단술[상완,전완,하퇴]",4266202,SNOMED,1970-01-01,2099-12-31
+N0587,42361447,Korean EDI,Replantation of Extremities[Four Extremities]; 사지접합수술[사지],4104655,SNOMED,1970-01-01,2099-12-31
+N0630,42363012,Korean EDI,Closed Reduction of Fracture And/Or Dislocated Spine; 척추골절 및 탈구의 도수정복술,4077798,SNOMED,1970-01-01,2099-12-31
+N0643,42362193,Korean EDI,Closed Reduction of Fractured Extremity[Forearm Bone]; 사지골절도수정복술[전완골],4079114,SNOMED,1970-01-01,2099-12-31
+N0651,42364877,Korean EDI,Bone Traction(Skull); 골견인술(두개골),4035591,SNOMED,1970-01-01,2099-12-31
+N0652,42361757,Korean EDI,Bone Traction(Four Extremities); 골견인술(사지골),4290250,SNOMED,1970-01-01,2099-12-31
+N0653,42362605,Korean EDI,Bone Traction(Halovest); 골견인술(Halovest),4168549,SNOMED,1970-01-01,2099-12-31
+N0660,42360722,Korean EDI,Shelf Operation; 구개 성형술,4185739,SNOMED,1970-01-01,2099-12-31
+N0670,42359888,Korean EDI,Tibial Tuberclectomy; 경골결절절제술,4186318,SNOMED,1970-01-01,2099-12-31
+N0692,42357728,Korean EDI,Autologous Chondrocyte Transplantation-Using Periosteum; 자가유래연골세포이식술-이식술-골막 이용,4135673,SNOMED,1970-01-01,2099-12-31
+N0700,42357302,Korean EDI,Excision of Joint [Including Synovectomy]-Shoulder; 사지관절절제술[활막절제를포함]-견관절,4169245,SNOMED,1970-01-01,2099-12-31
+N0701,42354732,Korean EDI,Excision of Joint[Including Synovectomy]-Hip; 사지관절절제술[활막절제를포함]-고관절,4321258,SNOMED,1970-01-01,2099-12-31
+N0705,42357616,Korean EDI,Excision of Baker'S Cyst; Baker's Cyst 절제술,4265050,SNOMED,1970-01-01,2099-12-31
+N0710,42357514,Korean EDI,Excision of Joint [Including Synovectomy]-Knee; 사지관절절제술[활막절제를포함]-슬관절,4197548,SNOMED,1970-01-01,2099-12-31
+N0711,42362897,Korean EDI,Total Arthroplasty[Hip]; 인공관절치환술-전치환[고관절],4203771,SNOMED,1970-01-01,2099-12-31
+N0715,42361271,Korean EDI,Hemiarthroplasty[Hip]; 인공관절치환술-부분치환술[고관절],4297365,SNOMED,1970-01-01,2099-12-31
+N0719,42363386,Korean EDI,Substitution of TMJ; 악관절치환술[인공관절대치술],4118091,SNOMED,1970-01-01,2099-12-31
+N0721,42277338,Korean EDI,Resection Arthroplasty[Hip]; 절제관절성형술[고관절],4034297,SNOMED,1970-01-01,2099-12-31
+N0731,42363997,Korean EDI,Arthrodesis[Hip]; 관절고정술[고관절],4321450,SNOMED,1970-01-01,2099-12-31
+N0735,42364914,Korean EDI,Arthrodesis- When triple arthrodesis is performed on the ankle joint; 관절고정술-족관절에 삼중관절고정술을 실시한 경우,4232831,SNOMED,1970-01-01,2099-12-31
+N0738,42358706,Korean EDI,Arthrodesis-Shoulder; 관절고정술-견관절,4049658,SNOMED,1970-01-01,2099-12-31
+N0739,42364859,Korean EDI,Arthrodesis-Knee; 관절고정술-슬관절,4167075,SNOMED,1970-01-01,2099-12-31
+N0742,42361522,Korean EDI,Mandibular Condylectomy; 하악과두절제술,4217351,SNOMED,1970-01-01,2099-12-31
+N0743,42358062,Korean EDI,TMJ Meniscoplasty; 악관절원반성형술,4034453,SNOMED,1970-01-01,2099-12-31
+N0751,42362398,Korean EDI,Open Reduction of Dislocation[Hip]; 관절탈구 관혈적정복술(고관절),4294667,SNOMED,1970-01-01,2099-12-31
+N0752,42365384,Korean EDI,Open Reduction of Dislocation[Shoulder]; 관절탈구 관혈적정복술(견관절),4217461,SNOMED,1970-01-01,2099-12-31
+N0753,42361739,Korean EDI,Open Reduction of Dislocation[Elbow]; 관절탈구 관혈적정복술(주관절),4310395,SNOMED,1970-01-01,2099-12-31
+N0754,42363615,Korean EDI,Open Reduction of Dislocation[Knee]; 관절탈구 관혈적정복술(슬관절),4136219,SNOMED,1970-01-01,2099-12-31
+N0761,42356940,Korean EDI,Closed Reduction of Dislocation[Hip]; 관절탈구 도수정복술(고관절),4280680,SNOMED,1970-01-01,2099-12-31
+N0762,42356337,Korean EDI,Closed Reduction of Dislocation[Shoulder]; 관절탈구 도수정복술(견관절),4311694,SNOMED,1970-01-01,2099-12-31
+N0765,42357137,Korean EDI,Closed Reduction of Dislocation[Radial Head Subluxation]; 관절탈구 도수정복술(요골골두 아탈구),4328656,SNOMED,2009-01-31,2099-12-31
+N0771,42358276,Korean EDI,Closed Reduction of TMJ Dislocation; 악관절탈구비관혈적정복술,4079945,SNOMED,1970-01-01,2099-12-31
+N0772,42353323,Korean EDI,Open Reduction of TMJ Dislocation; 악관절탈구관혈적정복술,4259271,SNOMED,1970-01-01,2099-12-31
+N0780,42365801,Korean EDI,Brisement Force(Manipulation of Joint); 비관혈관절수동술,4301348,SNOMED,1970-01-01,2099-12-31
+N0801,42357522,Korean EDI,Manipulative Correction For Deformity(Fracture); 변형도수교정술-골절변형교정술,4190331,SNOMED,1970-01-01,2099-12-31
+N0802,42360751,Korean EDI,Manipulative Correction For Deformity(Congenital Club Foot); 변형도수교정술-선천성만곡족변형교정술[캐스트기술료 및 재료대 포함],4000765,SNOMED,1970-01-01,2099-12-31
+N0841,42361902,Korean EDI,Drainage of Intramuscular Abscess(Psoas Abscess); 근농양배농술(요장근농양),4032115,SNOMED,1970-01-01,2099-12-31
+N0842,42358632,Korean EDI,Drainage of Intramuscular Abscess(Gluteal Abscess); 근농양배농술(둔근농양),4106035,SNOMED,1970-01-01,2099-12-31
+N0860,42360286,Korean EDI,Operation of Torticollis; 사경수술,4078246,SNOMED,1970-01-01,2099-12-31
+N0890,42357240,Korean EDI,Repair of Cruciate Ligament; 십자인대접합술,4147773,SNOMED,1970-01-01,2099-12-31
+N0900,42358226,Korean EDI,Excision of Ganglion; 갱그리온적출술,4321677,SNOMED,1970-01-01,2099-12-31
+N0911,42358263,Korean EDI,"Subcutaneous Tenotomy; 건,인대피하단열수술",4041632,SNOMED,1970-01-01,2099-12-31
+N0912,42358309,Korean EDI,"Simple Tendon Suture; 건,인대피하단열수술-간단한 건 봉합을 한 경우",4134668,SNOMED,1970-01-01,2099-12-31
+N0920,42357781,Korean EDI,Reconstruction of Achilles Tendon; 아킬레스건 재건술,4072039,SNOMED,1970-01-01,2099-12-31
+N0921,42330960,Korean EDI,Heel Cord Lengthening; 아킬레스건 연장술,4140584,SNOMED,1970-01-01,2099-12-31
+N0922,42362015,Korean EDI,"Fasciotomy, Simple; 근막절개술-단순 절개",4030382,SNOMED,1970-01-01,2099-12-31
+N0935,42365185,Korean EDI,Acromioplasty; 견봉성형술,4300754,SNOMED,1970-01-01,2099-12-31
+N0941,42086485,Korean EDI,Tenolysis; 건박리술,4196231,SNOMED,1970-01-01,2099-12-31
+N0951,42361411,Korean EDI,Operation of Fractured Lower Jaw(Closed Reduction); 하악골절수술(비관혈적정복술),4086986,SNOMED,1970-01-01,2099-12-31
+N0952,42361185,Korean EDI,"Operation of Fractured Lower Jaw(Open Reduction)-Symphysis, Body, Angle of Mandible; 하악골절관혈적정복술(정중부,골체부,우각부)",4145887,SNOMED,1970-01-01,2099-12-31
+N0953,42361302,Korean EDI,Operation of Fractured Lower Jaw(Open Reduction)-Condylar Head of Mandible; 하악골절관혈적정복술(하악 과두부),4271036,SNOMED,1970-01-01,2099-12-31
+N0961,42358955,Korean EDI,Operation of Fractured Upper Jaw(Closed Reduction); 상악골골절비관혈적정복술,4144924,SNOMED,1970-01-01,2099-12-31
+N0962,42358587,Korean EDI,"Operation of Fractured Upper Jaw(Open Reduction, Le Fort Ⅰ); 상악골골절관혈적정복술(Le Fort Ⅰ)",4075893,SNOMED,1970-01-01,2099-12-31
+N0963,42358722,Korean EDI,"Operation of Fractured Upper Jaw(Open Reduction, Le Fort Ⅱ); 상악골골절관혈적정복술(Le Fort Ⅱ)",4075446,SNOMED,1970-01-01,2099-12-31
+N0964,42361990,Korean EDI,"Operation of Fractured Upper Jaw(Open Reduction, Le Fort Ⅲ); 상악골골절관혈적정복술(Le Fort Ⅲ)",4075447,SNOMED,1970-01-01,2099-12-31
+N0965,42364727,Korean EDI,"Reduction of Zygomatic Bone Fracture(Gille's Method); 관골골절정복수술(길리씨수술)[관골궁,관골체포함]",4117485,SNOMED,1970-01-01,2099-12-31
+N0972,42359160,Korean EDI,Removal of Implant for Internal Fixation of Extremities[Femur]; 사지체내고정용금속제거술[대퇴골],4141907,SNOMED,1970-01-01,2099-12-31
+N0978,42359151,Korean EDI,Removal of Implant for Internal Fixation of Extremities- When a metal pin or a metal plate inserted into the bone is easily removed under a subfascial incision; 사지체내고정용금속제거술-골에삽입한금속핀이나금속정등을근막절개하에간단히제거한경우,4218109,SNOMED,1970-01-01,2099-12-31
+N0983,42357342,Korean EDI,External Fixation[Forearm Bone]; 체외금속고정술(전완골),4121859,SNOMED,1970-01-01,2099-12-31
+N1491,42347232,Korean EDI,Diskectomy(Invasive)-Cervical Spine; 관혈적 추간판제거술[척추후궁절제술포함]-경추,4034459,SNOMED,1970-01-01,2099-12-31
+N1492,42357669,Korean EDI,Diskectomy(Invasive)-Thoracic Spine; 관혈적 추간판제거술[척추후궁절제술포함]-흉추,4118092,SNOMED,1970-01-01,2099-12-31
+N1493,42357568,Korean EDI,Diskectomy(Invasive)-Lumbar Spine; 관혈적 추간판제거술[척추후궁절제술포함]-요추,4083391,SNOMED,1970-01-01,2099-12-31
+N1495,42365067,Korean EDI,Injection Procedure For Chemonucleolysis; 추간판제거술-척추수핵용해술[방사선료포함],4181895,SNOMED,1970-01-01,2099-12-31
+N1499,42362741,Korean EDI,"Laminectomy, Lumbar Spine; 척추후궁절제술-요추",4178646,SNOMED,2008-01-31,2099-12-31
+N1581,42364814,Korean EDI,Pollicization of a Digit; 수지의 무지화성형술,4290700,SNOMED,1970-01-01,2099-12-31
+N1582,42365688,Korean EDI,Reconstruction Thumb with Toe; 족지를 이용한 수지재건술(공여부절단술 포함),4101779,SNOMED,1970-01-01,2099-12-31
+N1583,42363706,Korean EDI,Vascularized Bone Graft; 생골 및 생피부판 이식술(혈관부착 골이식술),4107982,SNOMED,1970-01-01,2099-12-31
+N1585,42360449,Korean EDI,Osteocutaneous Free Flap-Pedicled Vascularized Bone Graft; 생골 및 생피부판 이식술(유경혈관화 골이식술),4179514,SNOMED,2008-01-31,2099-12-31
+N2071,42363880,Korean EDI,Replacement Arthroplasty-Total[Shoulder]; 인공관절치환술-전치환[견관절],4172500,SNOMED,1970-01-01,2099-12-31
+N2074,42366299,Korean EDI,Replacement Arthroplasty-Total[Wrist]; 인공관절치환술-전치환[완관절],4310657,SNOMED,1970-01-01,2099-12-31
+N2467,42360053,Korean EDI,"Arthrodesis of Spine-Cervical Spine-Posterior Technique[Occipito-Cervical Fusion]; 척추고정술[기기,기구사용고정포함]-후방고정-경추-후두골경추간",4235729,SNOMED,1970-01-01,2099-12-31
